@@ -1,0 +1,210 @@
+
+
+
+		  43596.of
+
+		  22612.in
+
+		   7500.on
+
+		   8336.with
+
+		  11630.to
+		   5174.from
+
+		   6534.by
+		   3522.at
+		    474.near
+
+		   4696.for
+
+		   2578.into
+		    998.through
+		    652.around
+
+		    946.between
+
+		    572.under
+		    872.over
+
+		    332.before         past
+		    760.during         pres
+		    756.after          future
+
+
+		    416.along
+		    382.toward
+		    382.against
+		    376.within
+		    344.across
+		    342.above
+
+
+
+
+
+
+
+.newspapers
+	 305101.(a:the)_rev
+		 144747.(pos_verb)
+
+
+		  43596.of
+		  22612.in
+		  11630.to
+		   8336.with
+		   7500.on
+		   6534.by
+		   5174.from
+		   4696.for
+		   3522.at
+		   2578.into
+		    998.through
+		    946.between
+		    872.over
+		    760.during
+		    756.after
+		    652.around
+		    572.under
+		    474.near
+		    416.along
+		    382.toward
+		    382.against
+		    376.within
+		    344.across
+		    342.above
+		    332.before
+
+
+		   5576.as
+
+		   3568.having
+
+		   3158.and
+
+		   1996.which
+		   1532.or
+		   1532.was
+
+		    936.make
+		    904.has
+		    902.that
+
+		    802.like
+		    800.resembling
+		    576.when
+		    564.than
+		    544.had
+		    540.up
+		    522.have
+		    502.be
+		    470.all
+		    456.about
+		    426.where
+		    420.off
+
+		    368.form
+		    366.out
+
+		    328.containing
+		    322.without
+		    302.down
+		    298.made
+		    282.give
+		    278.considered
+		    270.below
+		    266.especially
+		    246.not
+		    244.forming
+		    230.resembles
+		    228.being
+		    220.take
+		    218.only
+		    214.using
+		    210.took
+		    202.remove
+		    178.making
+		    174.are
+		    168.involving
+		    168.outside
+		    166.formerly
+		    166.put
+		    164.onto
+		    162.studies
+		    162.forms
+		    156.holds
+		    156.makes
+		    152.lacking
+		    148.got
+		    146.gave
+		    140.showing
+		    140.hit
+		    136.plays
+		    136.determine
+		    134.constituting
+		    134.among
+		    134.inside
+		    132.produce
+		    130.provides
+		    130.such
+		    130.became
+		    128.beyond
+		    128.led
+		    128.contains
+		    124.uses
+		    124.but
+		    122.including
+		    122.get
+		    120.defeated
+		    120.produces
+		    118.comprising
+		    118.cause
+		    118.bearing
+		    118.perform
+		    114.until
+		    114.throughout
+		    114.behind
+		    112.him
+		    112.following
+		    108.yielding
+		    106.indicating
+		    106.indicate
+		    106.me
+		    106.usually
+		    106.developed
+		    104.control
+		    102.become
+		    100.covering
+		    100.includes
+		     98.covers
+		     98.cut
+		     96.holding
+		     96.surrounding
+		     94.hold
+		     92.see
+		     88.affecting
+		     88.protects
+		     88.won
+		     86.supplies
+		     86.befitting
+		     86.protect
+		     86.left
+		     84.founded
+		     84.causes
+		     84.created
+		     82.causing
+		     82.representing
+		     82.producing
+		     82.cover
+		     82.towards
+		     80.taking
+		     80.support
+		     80.gives
+		     80.keep
+		     80.maintain
+		     78.measuring
+		     78.while
+		     78.what
+		     76.yields
+		     76.giving

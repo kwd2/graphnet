@@ -53,12 +53,13 @@ each step builds on the last step
 parcels form sequence off of IO:
 
                                                        
-                                                        
-|  man                                                                
-|  eat   -->    (nouns)  ->  (verbs)                             
+|                                                       
+|  man   --------man ------------------                                                     
+|
+|  eat   --------------------- eat ----
 |                                                                     
----------                                                             
- (IO)                                                                 
+---------       -------      -------
+ (IO)           (nouns)  ->  (verbs)                                                             
                                                         
                                                         
                                                         
@@ -71,12 +72,14 @@ the symbols into the correct order in AA
 
                                                       
                                                         
-|  man           man_n       eat_v          |  man_aa   eat_aa               
-|  eat   -->    (nouns) ->  (verbs)  -->    |                 
+|  man           man        eat             |  man       eat                
+|  eat   -->                                |                 
 |                                           |   1         2               
----------                                   ---------                
- (IO)                                        (AA)               
+---------       -------      -------        ---------
+ (IO)           (nouns)  ->  (verbs)         (AA)                                                    
                                                         
+
+
                                                         
 number line sequence assumed to form in AA             
                                                         
@@ -292,30 +295,32 @@ These can combine to signal "s" node in (te)
                                                         
             (det)                                            
             (adj)            (adv)                                                           
-            (noun)     (te)  (verb)    (te)    (prep)     (noun)                               
-            ------     ----  ------    ----    -----      ------
+            (noun)     (te)  (verb)    (te)    (prep)     (noun)           AA                    
+            ------     ----  ------    ----    -----      ------          -----
                                                         
             Two 
-            remarks                                       
+            remarks                                                         (X) (Y)
 
             a 
             few 
             days             apart(adv) 
 
-                             lead                        straight
+                             lead                        straight             (Why)
 
                                                 to         the 
                                                            question 
                           
-                             pose       ed      in         this 
+                             pose       ed      in         this                (I)
                                                            space 
 
-                                                after      last 
+                                                after      last               Paris:Friday,tragic,...
                                                            Friday’s 
                                                            tragic 
                                                            events 
     
                                                 in         Paris. 
+
+
 
 
 
@@ -372,19 +377,62 @@ Why does this war now reach into a Western capital? The question is why, the arg
 
 
 
+            (det)                                         (det)
+            (adj)            (adv)                        (adj)                          
+            (noun)     (te)  (verb)    (te)    (prep)     (noun)                               
+            ------     ----  ------    ----    -----      ------
+
+
+            I          do    talk
 
                                                         
                                                         
                                                         
+            I          do
+                       not   talk                                                        
                                                         
                                                         
                                                         
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
+            the 
+            car       was                                a 
+                                                         total 
+                                                         loss 
+
+
+
+           the 
+           car       was                                a 
+                                                        no-good 
+                                                        piece 
+
+                                                of      junk 
+ 
+
+
+ the car was on the top floor 
+ the car engine was running at idle 
+
+
+
+            (det)                                         (det)
+            (adj)            (adv)                        (adj)                          
+            (noun)     (te)  (verb)    (te)    (prep)     (noun)                               
+            ------     ----  ------    ----    -----      ------
+
+            the 
+            car 
+            engine           purr     ed 
+
+
+
+
+
+ the car runs more smoothly with the timing adjusted 
+
+
+ the car runs badly 
+ the car wouldn't start because dirt clogged the gas line 
+ the car did not have proper restraints fitted                                                       
                                                         
                                                         
                                                         

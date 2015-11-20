@@ -2299,7 +2299,7 @@ noun3
 
 
  1032.(he:she)
-		     55.did          i  //has ~50% irregular verbs
+		     55.did          i  //has ~50% irregular verbs 
 		     46.felt         i
 		     35.used
 		     33.heard        i

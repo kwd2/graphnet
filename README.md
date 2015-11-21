@@ -5,8 +5,8 @@ most files unintentionally put in repo.  Trying to remove
 
 latest working files are:
 
-bica6.cpp
-notes.txt
+      bica6.cpp
+      notes.txt
 
 
 original project stored:

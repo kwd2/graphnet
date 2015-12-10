@@ -111,7 +111,7 @@ used for prepositions
 
 
 
-                                        // conjunction
+                                        // conjunctions stack symbols in any parcel
     man
     or 
     woman         eat          s
@@ -253,9 +253,21 @@ then bifurcated parcel can be used to
                                                           
 start of the "I" parcel
                                                         
+ instead of every 3rd person noun bifurcating as above, the person/thing noun split can
+be used with a special rule for he/she                                                       
                                                         
-                                                        
-    
+natural language facilities:  person / thing is a natural split for humans to make
+
+
+
+
+
+
+
+
+
+
+
 
            
      (noun)       (te)  (verb)  (te)      (prep)     (noun) 
@@ -267,11 +279,11 @@ start of the "I" parcel
                                                         
   
 
-
+XXXX
 copies of 3rd person noun nodes are made in 3rd person parcel.  
 These can combine to signal "s" node in (te)
 
-
+XXXX - easier to fork person nodes, many fewer nodes
 
 
 
@@ -391,7 +403,9 @@ Why does this war now reach into a Western capital? The question is why, the arg
             I          do
                        not   talk                                                        
                                                         
-                                                        
+  
+
+                                                      
                                                         
             the 
             car       was                                a 
@@ -414,18 +428,6 @@ Why does this war now reach into a Western capital? The question is why, the arg
 
 
 
-            (det)                                         (det)
-            (adj)            (adv)                        (adj)                          
-            (noun)     (te)  (verb)    (te)    (prep)     (noun)                               
-            ------     ----  ------    ----    -----      ------
-
-            the 
-            car 
-            engine           purr     ed 
-
-
-
-
 
  the car runs more smoothly with the timing adjusted 
 
@@ -435,10 +437,358 @@ Why does this war now reach into a Western capital? The question is why, the arg
  the car did not have proper restraints fitted                                                       
                                                         
                                                         
+------------------------------------------                                                   
+
+
+plural:
                                                         
                                                         
+                            one           two+    
+                
+                                           
+  person                    one           two         
+                            person        person    s                                      
                                                         
                                                         
+
+  thing                     one           two
+                            thing         thing     s
+
+
+
+
+
+
+
+
+turns into number line:
+
+
+
+
+
+                0            1             2             3        all
+                no
+                                           
+  person        noone        one           two         
+                             person        person  s                                      
                                                         
                                                         
-                                                        
+
+  thing         nothing      one           two
+                             thing         thing     s
+
+
+
+
+
+
+
+
+
+
+
+                             noun    ->    verb
+                              |
+                              |
+                             person
+                             thing
+                             place
+
+
+                             singular     plural
+
+
+                no           yes
+
+
+                0            1             2             3             all
+
+
+                none         some          both          several       every
+                             any           either        many          all
+                                           neither       few
+
+           --------------------------------------------------------------------
+           |                                
+  person   |                  
+    one    |    noone         someone      both people   few people    everyone
+    body   |    nobody        somebody                                 everybody
+           |                  anyone
+           |                  anybody                            
+	   |
+	   |
+  thing    |    nothing       everything   both things   few things    everything 
+           |                 
+	   |
+	   |
+  place	   |
+    where  |    nowhere      somewhere                                 everywhere
+	   |                 anywhere
+	   |
+	   |
+
+
+
+
+
+
+
+nouns
+
+person
+thing
+
+count      can it take plural forms?
+
+mass       touch it?
+
+gender     obsolete in many languages
+
+
+
+
+
+
+
+
+
+
+
+		        (det)                                         (det)
+                        (adj)            (adv)                        (adj)                          
+       IO               (noun)     (te)  (verb)    (te)    (prep)     (noun)             AA                  
+   ------------         ------     ----  ------    ----    -----      ------        ---------------
+                                                                                                   
+                                                                                                   
+   m                      man                                                         m                
+    e                                    eat                                           -e               
+                                                                                                   
+                                                                                      (noun)  -(verb)     (+)             
+                          (n)            (v)                                                             
+                                                                                      (person)-(verb)-(s) (-)             
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+      
+
+
+                                                                                             
+                                                                                                   
+                                                                                                   
+ 		        (det)                                                 (det)
+                        (adj)  (person)           (adv)     ("s")              (adj)                          
+       IO               (noun)-(thing)     (te)   (verb)    (te)    (prep)     (noun)             AA                  
+   ------------         ------             ----   ------    ----    -----      ------        ---------------
+                                                                                                  
+
+    m                    man                                                                    m                
+    e                                             eat                                             -e               
+    s                                                        s                                      
+
+                                                               
+                         (n)                      (v)(+)                                       (nv +)         
+
+                               (p)                (v)(+)                                       (pv +)         // checksum on person/thing           
+                               (t)                (v)       (s)(+)                                                                   
+
+
+
+
+
+
+
+
+
+                                                                                      
+                                                                                                  
+ 		        (det)                                                  (det)
+                        (adj)  (person)           (adv)     ("s")              (adj)                          
+       IO               (noun)-(thing)     (te)   (verb)    (te)    (prep)     (noun)             AA                  
+   ------------         ------             ----   ------    ----    -----      ------        ---------------
+                                                                                                     
+                                                                                                     
+1                                                                                                man:eat           // m:e assoc formed      
+                                                                                                     
+2                                                                                                                  // pass through IO
+
+3     man:eat -->                                                                                                       
+                                                                                                                 
+4                         the                                                                               
+5                         man                                                                            
+6                                                   eat                                                                         
+7                                                              s                                                   // 3rd node fires "s"
+                                                                                                     
+                                                                                                 the  man  eats    // man eat ordered  
+                                                                                                 1    2    3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfective      : 'I struck the bell'           (an event viewed in its entirety, without reference to its temporal structure during its occurrence)
+
+Momentane       : 'The mouse squeaked once'     (contrasted to 'The mouse squeaked / was squeaking')
+
+Perfect         : 'I have arrived'              (a common conflation of aspect and tense)(brings attention to the consequences of a situation in the past)
+
+Recent perfect  : 'I just ate'                  , also known as after perfector 
+                  'I am after eating'           (Hiberno-English)
+
+Prospective     : 'He is about to fall', 
+                  'I am going to cry"           (a conflation of aspect and tense):(brings attention to the anticipation of an imminent future situation)
+
+Imperfective    : 'I was walking to work'       (progressive)(an activity with ongoing nature: combines the meanings of both the progressive and the habitual aspects) or 
+                  'I walked to work every day'  (used to walk, would walk) ' (habitual).
+
+Continuous      : 'I am eating' or 
+                  'I know'                      (situation is described as ongoing and either evolving or unevolving; a subtype of imperfective)
+
+Progressive     : 'I am eating'                 (action is described as ongoing and evolving; a subtype of continuous)
+
+Stative         : 'I know French'               (situation is described as ongoing but not evolving; a subtype of continuous)
+
+Habitual        : 'I used to walk home from work', 
+                  'I would walk home from work every day', 
+                  'I walk home from work every day'            (a subtype of imperfective)
+
+Gnomic/generic  : 'Fish swim and birds fly'     (general truths)
+
+Episodic        : 'The bird flew'               (non-gnomic)
+
+Continuative    : 'I am still eating'
+
+Inceptive or 
+ingressive      : 'I started to run'            (beginning of a new action: dynamic)
+
+
+
+
+
+
+Inchoative: 'The flowers started to bloom' (beginning of a new state: static)
+
+Terminative ~ cessative: 'I finished eating/reading'
+
+Defective: 'I almost fell'
+
+Pausative: 'I stopped working for a while'
+
+Resumptive: 'I resumed sleeping'
+
+Punctual: 'I slept'
+
+Durative: 'I slept for a while'
+
+Delimitative: 'I slept for an hour'
+
+Protractive: 'The argument went on and on'
+
+Iterative: 'I read the same books again and again'
+
+Frequentative: 'It sparkled', contrasted with 'It sparked'. Or, 'I run around', vs. 'I run'
+
+Experiential: 'I have gone to school many times' (see for example Chinese aspects)
+
+Intentional: 'I listened carefully'
+
+Accidental: 'I accidentally knocked over the chair'
+
+Intensive: 'It glared'
+
+Moderative: 'It shone'
+
+Attenuative: 'It glimmered'
+
+Segmentative: 'It is coming out in successive multitudes'[15]
+
+
+
+
+
+
+
+
+
+
+
+
+
+ the children of psychologists are often raised in an atmosphere of experimentalism 
+ the children of Israel 
+
+ the children had to be in bed before it was time for the trimming of the 
+ the children lined up for a coast down the snowy slope 
+ the children explored each other's bodies by playing the game of doctor 
+ the children always love to go to the circus 
+ the children acted out a comic piece to amuse the guests 
+ the children resembled a fairy herd 
+ the children loved a mud puddle 
+ the children returned from the seashore with their shells and other treasures 
+ the children enjoyed diving and looking for shells 
+ the children behaved well 
+ the children promised not to quarrel any more 
+ the children argued because one slice of cake was slightly larger than the other 
+ the children came late to school 
+ the children secretly went to the movies when they were supposed to be at the library 
+ the children worked on the project independently 
+ the children opened the presents unenthusiastically 
+ the children left their books behind 
+ the children ran down the hill amain 
+ the children followed the teacher credulously 
+
+
+
+
+
+
+                                                                                                  
+ 		        (det)                                                  (det)
+                        (adj)  (person)           (adv)     ("s")              (adj)                          
+       IO               (noun)-(thing)     (te)   (verb)    (te)    (prep)     (noun)             AA                  
+   ------------         ------             ----   ------    ----    -----      ------        ---------------
+                                                                                                    
+
+                         the 
+                         children
+                                                                     of      psychologists 
+                                           are    often 
+                                                  raise     d        
+                                                                     in      an 
+                                                                             atmosphere
+ 
+                                                                     of      experimentalism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

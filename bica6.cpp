@@ -49,14 +49,14 @@ public:
 
   Node*  add_sequence_markov    (list<Node*>::iterator,  int depth,  Node*);
   //
-  // every node is a copy
+  // every node is a copy,
   // equivalent to conjunctive 
   // join between symbols
   //  A --()-- B
 
   void  add_sequence_singleton (list<Node*>::iterator,  int depth);
   //
-  // no nodes are a copy
+  // no nodes are a copy,
   // equivalent to direct 
   // join between symbols                                   
   //  A --- B		 
@@ -147,11 +147,11 @@ Node::add_sequence_markov( list<Node*>::iterator node, int depth, Node* head){
   
   map< string, Node*>::iterator bs=branches_string.find((*node)->symbol);
 
-  if (bs==branches_string.end())   // not found
+  if (bs==branches_string.end())                               // not found
     {
-      Node*       new_node = new Node((*node)->symbol);
+      Node*       new_node = new Node((*node)->symbol);        // make new copy
 
-      add_branch( new_node, 1);
+      add_branch( new_node, 0);
       
       bs=branches_string.find(        (*node)->symbol);
     }
@@ -353,9 +353,11 @@ Node::del_branch( string symbol){
 void
 string_to_nodes(string code, list<Node*>* sentence){
 
+  // obselete
+
   // take a string of symbols and convert
   // to a list of corresponding nodes in global map
-
+  // "a b c" -> [a,b,c]
 
   extern map<string, Node*>   map_symbols;     // global map
 
@@ -529,10 +531,10 @@ int main()
   for (c1=corpus1.begin();c1!=corpus1.end();c1++){      // loop through corpus
     c1->push_back(end_node);
 
-    for (w=c1->begin();w!=c1->end();w++){          // loop every word                
+    for (w=c1->begin();w!=c1->end();w++){               // loop every word                
 
-      IO1.add_sequence_markov(w,1,&IO1);     // make a copy of every node    
-    }
+      IO1.add_sequence_markov(w,2,&IO1);                // make a copy of every node    
+    }                                                   // in IO parcel
   }
   
 
@@ -540,9 +542,10 @@ int main()
   // --------------------------------------  make another IO using add_seq
 
 
-  //IO1.output(1,0);cout<<"---"<<endl;
-  //IO1.output(2,0);cout<<"---"<<endl;
-  //IO1.output(3,0);cout<<"---"<<endl;
+  IO1.output(1,0);cout<<"---"<<endl;
+  IO1.output(2,0);cout<<"---"<<endl;
+  IO1.output(3,0);cout<<"---"<<endl;
+  IO1.output(4,0);cout<<"---"<<endl;
 
 
  /*
@@ -615,6 +618,9 @@ IO1
 
 
  // ------------------------------- combine a, the, and an into (a:the) node
+
+  // obsolete?  could be done with add_branch and self contained -fork node
+
 
   string sent1 = "the";  string_to_nodes(sent1, &sentence);                
   Node*  the1  = IO1.add_sequence_markov(sentence.begin(),10,&IO1);   // sets the1 = "75044.the" node above
@@ -1013,10 +1019,10 @@ IO2
 
 
 	 305101.(a:the)_rev
-		 104118.is
-		  43596.of
-		  22612.in
-		  11630.to
+		 104118.is           is the
+		  43596.of           of the
+		  22612.in           in the 
+		  11630.to           ...
 		   8336.with
 		   7500.on
 		   6534.by
@@ -1376,8 +1382,6 @@ verb1
 
 
 
-  //---------------------------- count 3rd singular, past, progressing
-  //---------------------------- count 3rd singular, past, progressing
 
 
 
@@ -1681,25 +1685,30 @@ noun2
 		     59.sound
 
 	   2392.or                   conj
+	   1467.and                  conj
+
+
 	   2341.the                  noun/adj
 
+
 	   2053.that                  pro
-
-	   1467.and                  conj
-	   1365.of                   prepos
-
 	   1240.who                   pro
-
-	    900.for                  prepos
-
 	    811.he                    pro
-
-	    608.in                   prepos
-	    521.be                   tense
-	    488.by                   prep
-	    454.has                  tense
 	    448.they                  pro
-	    429.not
+
+
+	   1365.of                   prepos
+	    900.for                  prepos
+	    608.in                   prepos
+	    488.by                   prep
+
+
+
+	    521.be                   tense
+	    454.has                  tense
+
+	    429.not                  negative in tense
+
 	    409.was
 	    336.are
 	    250.an
@@ -1728,14 +1737,6 @@ noun2
 
 
 alternate is serving or used in place of another 
-
-
-(noun)     (te)  (verb)  (prog)(past)   (prep)  (n)                  
-
-alternate  is    serve   ing                                             
-                 or 						       
-                 use           d        in      place 		     
-                                        of      another 	     
 
 
 
@@ -1775,21 +1776,6 @@ alternate  is    serve   ing
 killing is an   event that causes someone to die                                
 
 
-(det) (noun)   (te)  (verb)  (3rd) (prog)(past)   (prep)  (det)(n) 
-
-      killing  is                                         an   event             
-                                                                                   
-																		      
-      that           cause   s                            someone     	         
-
-                to    die                                              
-
-
-
-
-
-
-
 
        (noun)     (te)  (verb)  (te)      (prep)     (noun) 
 
@@ -1823,7 +1809,6 @@ determiners, adj, and nouns stack in parcel.
 particle stacks in verb parcel
 
 
-conjunctions stack in any parcel
 
 
 
@@ -1840,20 +1825,6 @@ conjunctions stack in any parcel
 
 
 he got change for a twenty and used it to pay the taxi driver 
-
-
-
-(det) (noun)   (te)  (verb)  (3rd) (prog)(past)   (prep)  (det:adj:n) 
-
-      he             got                                       change 
-
-                                                   for    a    twenty 
-
-                      and                                          
-
-                      used                                     it 
-
-                 to   pay                                 the  taxi driver 
 
 
 
@@ -1875,6 +1846,12 @@ he got change for a twenty and used it to pay the taxi driver
 
 
 
+
+conjunctions stack in any parcel:
+
+
+        (noun)    (te)  (verb)  (te)      (prep)     (noun) 
+
         car
         and
         truck
@@ -1886,9 +1863,9 @@ he got change for a twenty and used it to pay the taxi driver
 
 
 
-                     eat
-                     and
-                     drink
+                       eat
+                       and
+                       drink
                                            for
                                            and
                                            of       the
@@ -1932,7 +1909,7 @@ he got change for a twenty and used it to pay the taxi driver
 
 	   1365.of             prepos  
 
-		    155.time             //noun / verb s
+		    155.time             //nouns that are verb s
 		     49.work
 		     43.changing
 		     37.sound
@@ -2183,7 +2160,7 @@ The pipeline
 
 
 
-  //  go back to noun2, take out pronouns and make sequence:
+  //  go back to noun2, take out pronouns and make the sequence:
   //
   //        (noun3)  (verb3)
   //
@@ -2268,7 +2245,7 @@ noun2
 	    nv.push_back(*w);
 	    nv.push_back(end_node);
 
-	    noun3.add_sequence_markov(nv.begin(),2,&noun2); 
+	    noun3.add_sequence_markov(nv.begin(),2,&noun3); 
 	  }
 	}
       }
@@ -2313,7 +2290,7 @@ noun3
 	    146.it
 		     20.takes          // few irregular
 		     11.becomes
-		      6.does
+		      6.does         i
 		      5.started
 		      4.indicates
 		      4.moves

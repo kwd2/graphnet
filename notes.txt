@@ -783,6 +783,121 @@ Segmentative: 'It is coming out in successive multitudes'[15]
 
 
 
+ 		        (det)                                                  (det)
+                        (adj)  (person)           (adv)     ("s")              (adj)                          
+       IO               (noun)-(thing)     (te)   (verb)    (te)    (prep)     (noun)             AA                  
+   ------------         ------             ----   ------    ----    -----      ------        ---------------
+                                                                                                    
+
+                                                                                                tomorrow:raindrop:fall ?
+
+
+                       raindrop      s      will   fall
+                                                   tomorrow
+
+
+                                                   tomorrow
+                       raindrop      s      will   fall
+
+
+                                           
+                       raindrop      s             tomorrow
+                                            will   fall
+
+
+                       raindrop      s      will   tomorrow
+                                                   fall
+
+
+
+
+
+
+
+
+
+
+
+ 		        
+                        
+       IO               
+  ------------         (noun) 
+  |                    ------                                                                          
+  |	       -->     |        -->  (person) 	   
+  |                            	     (thing )
+  |
+  |	       -->     (verb)	 	        
+  |		       ------	   
+  |		       |     	   
+                         
+
+                       ---->  (Noun)    ------>   (Verb)    ---->  ("s")
+
+
+
+
+
+
+
+
+
+
+                      (noun) --->  (single only   )     singular  
+                                   (duplicatable  )     plural
+
+
+
+
+
+
+
+                 <--   singular      plural -->
+
+             0           1               2              3          4
+
+
+
+
+
+
+
+                              ()                  ()                   ()
+   time                      past                 pres                future
+
+
+
+
+
+
+
+
+
+                                                  ()
+                                                  above
+
+                                                  |
+
+                              ()                  ()                  ()
+    space                    near       -         on       -          near
+                                                  at                  beside
+                                                  in                  by
+                                                  with                
+                                                  
+                                                  |
+
+                                                  ()
+                                                  below
+                                                  
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -877,8 +877,8 @@ Segmentative: 'It is coming out in successive multitudes'[15]
 
                                                   |
 
-                              ()                  ()                  ()
-    space                    near       -         on       -          near
+                                                  ()       -           ()         -     ()
+    space                                         on                  near              
                                                   at                  beside
                                                   in                  by
                                                   with                
@@ -900,8 +900,348 @@ Segmentative: 'It is coming out in successive multitudes'[15]
 
 
 
+best list of prepositions:
+
+------
+IO2
+	 305102.(a:the)_rev
+
+		  43596.of
+		  22612.in
+		  11630.to
+		   8336.with
+		   7500.on
+		   6534.by
+		   5576.as
+		   5174.from
+		   4696.for
+
+		   3522.at
+
+		   2578.into
+		    998.through
+		    946.between
+		    872.over
+		    760.during
+		    756.after
+		    652.around
+		    572.under
+		    540.up
+		    474.near
+		    456.about
+		    420.off
+		    416.along
+		    382.toward
+		    382.against
+		    376.within
+
+		    366.out
+		    344.across
+		    342.above
+		    332.before
+
+		    322.without
+		    302.down
+
+		    270.below
+
+		    168.outside
+
+		    164.onto
+
+		    134.among
+		    134.inside
+
+		    114.until
+		    114.throughout
+		    114.behind
 
 
+
+
+
+
+
+sorted:
+
+
+
+IO2
+	 305102.(a:the)_rev
+
+
+
+
+                                                    ()
+
+time  		                                 756.after
+		                                 760.during
+  		                                 332.before
+
+
+
+
+
+
+
+
+space                             ()                               ()          
+  		               22612.in                         6534.by
+		                8336.with                        474.near
+		                7500.on                           28.beside
+		                3522.at   
+		                 376.within
+                                 134.among    
+                     		2578.into
+  		                 420.off
+		                 322.without
+
+
+
+
+
+
+
+		                               872.over
+		                               540.up
+ 		                               342.above
+
+		                               572.under
+		                               302.down
+		                               270.below
+
+
+
+                                                up         above        over 
+                                                down       below	under
+
+
+
+
+
+
+		  43596.of
+			   1586.part                n
+			   1440.consisting          v
+			   1326.member              n
+			   1218.genus               n
+			   1140.one                 n
+			    584.is                  te
+			    574.any                 n
+			    466.plants              n
+			    460.characteristic      n
+			    374.side                n
+			    352.end                 n
+			    312.surface             n
+			    310.form                n
+			    308.inflammation        n
+			    308.plant               n
+			    272.out                 prep
+			    262.head
+			    228.members
+			    218.branch
+			    206.parts
+			    194.site
+
+
+		  11630.to 
+		  11630.to
+			   1498.relating             v
+			    344.belonging            v
+			    262.is                   te
+			    192.attached             v
+			    184.or                   conj
+			    156.pertaining           v
+			    156.related              v
+			    140.similar              adj
+			    136.equal                adj
+			    134.according            v
+			     76.due                  v?
+			     72.applied              v
+
+
+		                                                 
+		   5576.as
+			   1126.used            ~all verbs
+			    128.serves
+			    112.such
+			    106.and
+			     96.is
+			     90.serving
+			     86.cultivated
+			     76.considered
+			     74.regarded
+			     64.act
+			     58.known
+			     56.grown
+			     54.or
+			     52.serve
+			     52.acts
+			     40.use
+			     40.expressed
+			     38.represented
+			     36.especially
+			     36.classified
+			     36.served
+			     34.have
+			     32.work
+			     26.functioning
+			     24.taken
+			     22.worn
+			     22.eaten
+			     22.valued
+			     20.treated
+			     18.acting
+			     18.chiefly
+			     18.given
+
+
+
+
+		   5174.from
+			    184.resulting           nouns and verbs
+			    140.away
+			    108.made
+			    102.derived
+			     94.obtained
+			     62.is
+			     58.blood
+			     54.independence
+			     50.extending
+			     46.remove
+			     42.meat
+			     40.or
+			     40.cut
+			     38.as
+			     38.coming
+			     38.water
+			     36.out
+			     30.arising
+			     28.separated
+			     26.distance
+			     26.taken
+			     26.extends
+			     24.projecting
+			     24.formed
+			     24.change
+			     24.fired
+			     24.different
+			     24.off
+			     24.discharge
+			     24.distinguished
+			     22.wine
+			     22.information
+			     20.extracted
+			     20.growing
+			     20.suspended
+
+
+
+		   4696.for
+
+
+		    998.through
+		    946.between
+
+
+		    652.around
+
+		    456.about
+
+		    416.along
+		    382.toward
+		    382.against
+
+
+		    366.out
+		    344.across
+
+
+
+
+		    168.outside
+
+		    164.onto
+
+
+		    114.until
+		    114.throughout
+		    114.behind
+
+
+
+
+
+
+
+
+
+		        (det)                                                     (det)
+                        (adj)  (person)           (adv)     ("s")                 (adj)                          
+       IO               (noun)-(thing)     (te)   (verb)    (te)    (prep)        (noun)             AA                  
+   ------------         ------             ----   ------    ----    -----         ------        ---------------
+                                                                                                    
+
+                         (noun) ----------------------------------- of       ---  (noun)	     	 
+
+
+		  	 (noun) ---------------  (verb)  ---------- to       ---  (noun)	     	 
+
+
+
+						            	    in	     	 
+
+
+
+
+		  					            with	 
+		  					    	    on	     	 
+		  					    	    by	     	 
+		  					    	    as	     	 
+		  					            from	 
+		  					    	    for	     	 
+		  					    	                 
+		  					    	    at	     	 
+		  					    	                 
+		  					            into	 
+		  					            through	 
+		  					            between	 
+		  					            over	 
+		  					            during	 
+		  					            after	 
+		  					            around	 
+		  					            under	 
+		  					    	    up	     	 
+		  					            near	 
+		  					            about	 
+		  					    	    off	     	 
+		  					            along	 
+		  					            toward	 
+		  					            against	 
+		  					            within	 
+		  					    	                 
+		  					    	    out	     	 
+		  					            across	 
+		  					            above	 
+		  					            before	 
+		  					    	                 
+		  					            without	 
+		  					            down	 
+		  					    	                 
+		  					            below	 
+		  					    	                 
+		  					            outside	 
+		  					    	                 
+		  					            onto	 
+		  					    	                 
+		  					            among	 
+		  					            inside	 
+		  					    	                 
+		  					            until	 
+		  					    	    throughout   
+		  					    	    behind       
+		  
+		  
 
 
 

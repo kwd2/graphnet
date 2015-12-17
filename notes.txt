@@ -459,6 +459,8 @@ plural:
 
 
 
+plural node can bifrucate nouns into countable and non-countable
+
 
 
 turns into number line:
@@ -805,7 +807,8 @@ Segmentative: 'It is coming out in successive multitudes'[15]
                                             will   fall
 
 
-                       raindrop      s      will   tomorrow
+                       raindrop      s      will   
+						   tomorrow
                                                    fall
 
 
@@ -1044,7 +1047,6 @@ space                             ()                               ()
 			    194.site
 
 
-		  11630.to 
 		  11630.to
 			   1498.relating             v
 			    344.belonging            v
@@ -1095,6 +1097,13 @@ space                             ()                               ()
 			     18.chiefly
 			     18.given
 
+
+
+noun             of   a:the  noun
+
+noun     verb    to   a:the  noun
+ 
+noun     verb    as   a:the  noun
 
 
 
@@ -1247,3 +1256,153 @@ space                             ()                               ()
 
 
 
+
+
+
+
+		        (det)                                                     (det)
+                        (adj)  (person)           (adv)     ("s")                 (adj)                          
+       IO               (noun)-(thing)     (te)   (verb)    (te)    (prep)        (noun)             AA                  
+   ------------         ------             ----   ------    ----    -----         ------        ---------------
+                                                                                                    
+
+                         (noun) ----------------------------------- of       ---  (noun)	     	 
+
+
+		  	 (noun) ---------------  (verb)  ---------- to       ---  (noun)	     	 
+
+
+
+
+                                                                    before
+                                                                    before
+
+                         (noun) ----------------------------------- during   ---  (noun)	     	 
+		  	 (noun) ---------------  (verb)  ---------- during   ---  (noun)	     	 
+
+                                                                    after
+                                                                    after
+
+
+
+
+                                              
+                         (noun) ----------------------------------- in       ---  (noun)	     	 
+		  	 (noun) ---------------  (verb)  ---------- in       ---  (noun)	     	 
+
+
+
+
+
+
+
+space                             ()                               ()          
+  		               22612.in                         6534.by
+		                8336.with                        474.near
+		                7500.on                           28.beside
+		                3522.at   
+		                 376.within
+                                 134.among    
+                     		2578.into
+  		                 420.off
+		                 322.without
+
+
+
+
+
+
+
+		                               872.over
+		                               540.up
+ 		                               342.above
+
+		                               572.under
+		                               302.down
+		                               270.below
+
+
+
+                                                up         above        over 
+                                                down       below	under
+
+
+
+
+
+		    332.before                     760.during		              756.after		       
+			     26.just		   	     24.is	    	      	     60.next	       
+			     16.is		   	     12.formed	    	      	     26.is	       
+			     10.time		   	     10.occurring   	      	     18.as	       
+			     10.or		   	     10.states	    	      	     14.up	       
+			     10.days		   	     10.army	    	      	     10.used	       
+			      8.period		   	      8.bloom	    	      	     10.left	       
+			      6.used		   	      8.work	    	      	     10.again	       
+			      6.appear		   	      8.battle	    	      	      8.modeled	       
+			      6.brought		   	      6.happening   	      	      8.or	       
+			      4.taken		   	      6.period	    	      	      8.days	       
+			      4.South		   	      6.shift	    	      	      6.born	       
+			      4.price		   	      6.time	    	      	      6.over	       
+			      4.America		   	      6.Confederacy 	      	      6.immediately    
+			      4.placed		   	      6.soldiers    	      	      4.soon	       
+			      4.States		   	      6.active	    	      	      4.years	       
+			      4.as		   	      6.state	    	      	      4.made	       
+			      4.sale		   	      6.Army	    	      	      4.mourning       
+			      4.bowed		   	      6.down	    	      	      4.occurring      
+			      4.night		   	      4.rate	    	      	      4.yourself       
+			      2.Americas	   	      4.Lincoln	    	      	      4.period	       
+			      2.disease		   	      4.arising	    	      	      4.day	       
+			      2.standing	   	      4.chromosomes 	      	      4.that	       
+			      2.eras		   	      4.history	    	      	      4.equilibrium    
+			      2.books		   	      4.infant	    	      	      4.remains	       
+			      2.elapses		   	      4.power	    	      	      4.continue       
+			      2.culture		   	      4.art	    	      	      4.point	       
+			      2.burned		   	      4.fixation    	      	      4.standing       
+			      2.existed		   	      4.used	    	      	      4.especially     
+			      2.onset		   	      4.up	    	      	      4.went	       
+			      2.spots		   	      4.taken	    	      	      4.throne	       
+			      2.security	   	      4.general	    	      	      4.tumbled	       
+			      2.flowers		   	      4.works	    	      	      4.down	       
+			      2.acquire		   	      4.battles	    	      	      4.out	       
+			      2.clients		   	      4.States	    	      	      4.named	       
+			      2.assembled	   	      4.fighting    	      	      4.continued      
+						   	      4.out         	      	      2.events	       
+										      	      2.situation      
+
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    

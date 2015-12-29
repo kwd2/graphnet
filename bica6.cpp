@@ -533,7 +533,7 @@ int main()
 
     for (w=c1->begin();w!=c1->end();w++){               // loop every word                
 
-      IO1.add_sequence_markov(w,2,&IO1);                // make a copy of every node    
+      IO1.add_sequence_markov(w,3,&IO1);                // make a copy of every node    
     }                                                   // in IO parcel
   }
   

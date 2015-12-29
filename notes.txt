@@ -13,7 +13,7 @@
 IO parcel contains all understood symbols(as nodes)
                                                    
                                                         
- symbols in parcel bifrucate (by process below)                                                      
+ fundamental process is for the symbols in parcel bifrucate into new parcels (by process(es) below)                                                      
                                                         
                  | man                                          
 |  man           -----                                            
@@ -23,6 +23,9 @@ IO parcel contains all understood symbols(as nodes)
  (IO)                                                       
                                                         
                                                         
+
+
+bifurcation using determiners:
 
 
 combine a, an, and the into new node (a:the)
@@ -80,10 +83,11 @@ the symbols into the correct order in AA
                                                         
 
 
+An association area parcel is assumed to exist that is accessible from other parcels
                                                         
-number line sequence assumed to form in AA             
+
+A number line sequence assumed to exist and can connect between parcels          
                                                         
-used for prepositions
                                                        
 
 
@@ -101,6 +105,7 @@ used for prepositions
 
 
 
+"s" node in AA grows into tense element node:
 
 
 
@@ -152,7 +157,7 @@ the stacking is ordered
  (det:adj:noun)       (verb)      (te)        (AA)
 
                                           |
-                                          |   nodes not active
+                                          |              <--nodes not active
                                           |
                                           |
                                           |
@@ -239,8 +244,8 @@ baby's (noun) parcel  can bifrucate using "s" symbol
 
 then bifurcated parcel can be used to 
   trigger "s" on output and also to                                                           
-  checksum the noun-verb agreement when listening
-                                        a listener
+  checksum the noun-verb agreement of input
+                                        
                                                           
                  |  I                                
           ->     -----                               
@@ -263,27 +268,6 @@ natural language facilities:  person / thing is a natural split for humans to ma
 
 
 
-
-
-
-
-
-
-           
-     (noun)       (te)  (verb)  (te)      (prep)     (noun) 
-       -(I  )
-       -(3rd)
-
-     man                 eat     s
-         m'-(3rd)
-                                                        
-  
-
-XXXX
-copies of 3rd person noun nodes are made in 3rd person parcel.  
-These can combine to signal "s" node in (te)
-
-XXXX - easier to fork person nodes, many fewer nodes
 
 
 
@@ -317,7 +301,8 @@ XXXX - easier to fork person nodes, many fewer nodes
             few 
             days             apart(adv) 
 
-                             lead                        straight             (Why)
+                             lead
+                             straight(adv)                                  (Why)
 
                                                 to         the 
                                                            question 
@@ -520,7 +505,7 @@ turns into number line:
            |                  anybody                            
 	   |
 	   |
-  thing    |    nothing       everything   both things   few things    everything 
+  thing    |    nothing       something    both things   few things    everything 
            |                 
 	   |
 	   |
@@ -764,14 +749,14 @@ Segmentative: 'It is coming out in successive multitudes'[15]
                                                                                                     
 
                          the 
-                         children
-                                                                     of      psychologists 
+                         child ren
+                                                                     of      psychologist s 
                                            are    often 
                                                   raise     d        
                                                                      in      an 
                                                                              atmosphere
  
-                                                                     of      experimentalism 
+                                                                     of      experiment al ism 
 
 
 
@@ -780,7 +765,7 @@ Segmentative: 'It is coming out in successive multitudes'[15]
 
 
 
-
+adverb can appear anywhere in the sequence:
 
 
 
@@ -998,7 +983,7 @@ space                             ()                               ()
                      		2578.into
   		                 420.off
 		                 322.without
-
+		                 164.onto
 
 
 
@@ -1017,10 +1002,45 @@ space                             ()                               ()
 
                                                 up         above        over 
                                                 down       below	under
+--------
+
+remaining preposistions:
+
+
+		  43596.of
+
+		  11630.to
+		   5174.from
+
+		   5576.as
+
+		   4696.for
+
+		    998.through
+		    946.between
+
+		    652.around
+
+		    456.about
+
+		    416.along
+		    382.toward
+		    382.against
+
+		    366.out
+		    344.across
+
+		    168.outside
+
+		    114.until
+		    114.throughout
+		    114.behind
 
 
 
 
+
+--------
 
 
 		  43596.of
@@ -1259,17 +1279,20 @@ noun     verb    as   a:the  noun
 
 
 
-
-		        (det)                                                     (det)
-                        (adj)  (person)           (adv)     ("s")                 (adj)                          
-       IO               (noun)-(thing)     (te)   (verb)    (te)    (prep)        (noun)             AA                  
-   ------------         ------             ----   ------    ----    -----         ------        ---------------
+                                           
+		        (det)              aux-v                                    (det)
+                        (adj)  (person)    not      (adv)     ("s")                 (adj)                          
+       IO               (noun)-(thing)     (te)     (verb)    (te)    (prep)        (noun)             AA                  
+   ------------         ------             ----     ------    ----    -----         ------        ---------------
                                                                                                     
 
-                         (noun) ----------------------------------- of       ---  (noun)	     	 
 
 
-		  	 (noun) ---------------  (verb)  ---------- to       ---  (noun)	     	 
+
+                         (noun) -----------------------------------    of       ---  (noun)	     	 
+
+
+		  	 (noun) ---------------  (verb)  ----------    to       ---  (noun)	     	 
 
 
 
@@ -1369,18 +1392,542 @@ space                             ()                               ()
 						   	      4.out         	      	      2.events	       
 										      	      2.situation      
 
+auxiliary verb	Meaning contribution	Example
+
+be1	copula (= linking verb)	She is the boss.
+be2	progressive aspect	He is sleeping.
+be3	passive voice	        They were seen.
+
+can1	deontic   modality	I can swim.
+can2	epistemic modality	Such things can help.
+could1	deontic   modality	I could swim.
+could2	epistemic modality	That could help.
+
+dare	epistemic modality	How dare you!
+
+do	do-support/emphasis	You did not understand.
+have1	perfect aspect	        They have understood.
+
+may1	deontic   modality	May I stay?
+may2	epistemic modality	That may take place.
+might	epistemic modality	We might give it a try.
+must1	deontic   modality	You must not mock me.
+must2	epistemic modality	It must have rained.
+
+need	deontic   modality	You need not water the grass.
+
+ought	deontic   modality	You ought to play well.
+shall	deontic   modality	You shall not pass.
+should1	deontic   modality	You should listen.
+should2	epistemic modality	That should help.
+
+will	epistemic modality	We will eat pie.
+
+would   	epistemic modality	Nothing would accomplish that.
 		    
 		    
 		    
 		    
 		    
 		    
+
+
+
 		    
-		    
-		    
-		    
-		    
-		    
+
+                                           
+		        (det)            aux-v                                                            (det)
+                        (adj)  (p)       not                            (adv)     ("s")                   (adj)                          
+       IO               (noun)-(t)       (te)                           (verb)    (te)      (prep)        (noun)             AA                  
+   ------------         ------           ----                           ------    ----      -----         ------        ---------------
+
+                                                                                                    
+                         man                                            talk                                                                           
+
+                         man                                            talk              s  
+
+           (past)        man                                            talk        ed                                                   
+           (pres)        man                                            talk              s                        
+           (future)      man                 will                       talk                                                                           
+
+-
+
+(perf)     (past)        man                            has              talk         ed                                                   
+
+(prog)     (pres)        man                                  is         talk   ing                                
+(prog)     (future)      man                 will                  be    talk   ing                                                                        
+
+-
+
+(perf)     (past)        man                            has              talk         ed                                                   
+(perf)     (pres)        man                            had              talk         ed                                                   
+(perf)     (futr)        man                 will       have             talk         ed                                                   
+
+
+(prog)     (past)        man                                  was        talk   ing                                
+(prog)     (pres)        man                                  is         talk   ing                                
+(prog)     (futr)        man                 will                  be    talk   ing                                                                        
+
+-
+(prg)(prf) (past)        man                            had        been  talk   ing                                
+(prg)(prf) (pres)        man                            has        been  talk   ing                                
+(prg)(prf) (pres)        man                 will       have       been  talk   ing                                
+
+-
+
+
+
+
+repeat and add "not" in
+
+
+
+
+
+
+
+		        (det)                                                                                   (det)
+                        (adj)  (p)                                           (adv)     ("s")                    (adj)                          
+       IO               (noun)-(t)          will   not  have   is not  be    (verb)    (te)           (prep)    (noun)        AA                  
+   ------------         ------           -------------------------------     ------    -----------    -----     ------      ---------------
+
+                                                                                                    
+                         man                                                  talk                                                
+                         man                                                  talk              s  
+(prog)                   man                                                  talk   ing
+
+           (past)        man                                                  talk        ed                                       
+           (pres)        man                                                  talk              s                        
+           (future)      man                 will  not                        talk                                                
+
+-
+
+(perf)     (past)        man                             has       not        talk         ed                                            
+(prog)     (pres)        man                                   is  not        talk   ing                                
+(prog)     (future)      man                 will  not                   be   talk   ing                                                
+
+-
+
+(perf)     (past)        man                            has        not        talk         ed                                         
+(perf)     (pres)        man                            had        not        talk         ed                                      
+(perf)     (futr)        man                 will  not  have                  talk         ed                          
+
+
+(prog)     (past)        man                                  was  not        talk   ing                                
+(prog)     (pres)        man                                  is   not        talk   ing                                
+(prog)     (futr)        man                 will  not                  be    talk   ing                                      
+
+-
+(prg)(prf) (past)        man                            had        not  been  talk   ing                                
+(prg)(prf) (pres)        man                            has        not  been  talk   ing                                
+(prg)(prf) (futr)        man                 will  not  have            been  talk   ing                                
+
+
+
+
+
+
+
+
+
+add in auxillary verbs
+
+                                    
+                                            
+		        (det)                                                                                   (det)
+                        (adj)  (p)                                           (adv)     ("s")                    (adj)                          
+       IO               (noun)-(t)     (te) will   not  have   is not  be    (verb)    (te)           (prep)    (noun)       AA                  
+   ------------         ------         ----------------------------------    ------    -----------    -----     ------    ---------------
+
+                                                                                                    
+                         man                                                  talk                                                
+
+                         man                                                  talk                s  
+                         man                                                  talk     ing  
+
+           (past)        man                                                  talk           ed                                       
+           (pres)        man                                                  talk                s                        
+           (future)      man                 will    not                      talk                                                
+
+
+
+           (future)      man                 will    not                      talk                                                
+           (future)      man                 would   not                      talk                                                
+           (future)      man                 should  not                      talk                                                
+           (future)      man                 could   not                      talk                                                
+           (future)      man                 can     not                      talk                                                
+           (future)      man                 may     not                      talk                                                
+           (future)      man                 might   not                      talk                                                
+           (future)      man                 must    not                      talk                                                
+           (future)      man                 shall   not                      talk                                                
+           (future)      man                 ought   not                      talk                                                
+           (future)      man                 do(es)  not                      talk                                                
+           (future)      man                 need(s) not                      talk                                                
+           (future)      man                 used-to not                      talk                                                
+           (future)      man                 dare    not                      talk                                                
+
+
+
+
+
+
+
+
+
+
+                                            need(s)
+                                            do(es) 
+                                            ought
+                                            shall
+                                            must
+                                            might
+                                            may
+                                            can
+                        (det)               should
+		        (adj)               could                                                               (det)
+                        (noun)-(p)          would                            (adv)     ("s")                    (adj)                          
+       IO                      (t)     (te) will   not  have   is not  be    (verb)    (te)           (prep)    (noun)      AA                  
+   ------------         ----------     ----------------------------------    ------    -----------    -----     ------     ---------------
+                                                                                                    
+                         man                                                  talk                                
+ 
+                         man                                                  talk              s
+                         man                                                  talk   ing  
+
+           (past)        man                                                  talk        ed                                       
+           (pres)        man                                                  talk              s                        
+           (future)      man                 will  not                        talk                                                
+
+
+(perf)     (past)        man                             has       not        talk         ed                                            
+(prog)     (pres)        man                                   is  not        talk   ing                                
+(prog)     (future)      man                 will  not                   be   talk   ing                                                
+
+-
+(perf)     (past)        man                            has        not        talk         ed                                         
+(perf)     (pres)        man                            had        not        talk         ed                                      
+(perf)     (futr)        man                 will  not  have                  talk         ed                          
+
+(prog)     (past)        man                                  was  not        talk   ing                                
+(prog)     (pres)        man                                  is   not        talk   ing                                
+(prog)     (futr)        man                 will  not                  be    talk   ing                                      
+
+-
+(prg)(prf) (past)        man                            had        not  been  talk   ing                                
+(prg)(prf) (pres)        man                            has        not  been  talk   ing                                
+(prg)(prf) (futr)        man                 will  not  have            been  talk   ing                                
+
+
+
+
+
+
+                                                                                
+                                                                                                    
+                    
+
+
+
+
+
+                                                                                                    
+                                                                                                    
+      
+
+
+
+
+
+                                            ...   be
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+                                                                                                         
+											            
+1st                      man                                                         in        house       house    
+2nd											            
+3rd											            
+                         man                                                         in        house              
+past											            
+pres											            
+fut                                                                                            house              
+
+prog
+perf
+
+
+
+
+
+
+
+
+
+space                             ()                               ()          
+  		               22612.in                         6534.by
+		                8336.with                        474.near
+
+		                7500.on                           28.beside
+		                3522.at   
+		                 376.within
+                                 134.among    
+                     		2578.into
+  		                 420.off
+		                 322.without
+
+
+
+
+
+
+the difficulties in which the question is involved 
+a city in which communism and democracy had to live side by side 
+a binary star is a system in which two stars revolve around each other 
+bank is a building in which the business of banking transacted 
+
+
+
+
+
+
+                                            ...   be
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+
+                         the 
+                         difficulties                                                  in                  which 
+                                                                                                           the 
+                                                                                                           question 
+                                               is            involve     ed 
+
+
+
+
+
+
+
+
+
+
+
+                                            ...   be
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+   			the 
+			Shakespearean 
+			Shylock			   is                                 of                    dubious 
+						   				      			    value 
+
+										      in         	    the 
+										      			    modern 
+													    world 
+
+
+
+ 			the 
+			ring                       is				      of	            no 
+						   				      			    lapidary 
+													    value- Lord Byron 
+
+
+
+ he predicted that although it  is of  small account now it will rapidly increase in importance 
+ that result                    is of  no consequence 
+ that which is created          is of  necessity corporeal and visible and tangible - Benjamin Jowett 
+ light                          is of  comparatively little physical weight or density 
+
+
+
+
+
+
+
+
+
+                                            ...   be
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+
+                                                                                                            
+                          man                                                          in                    house           
+                                                                                                                               
+                                                                                                                                      
+                                                                                                                                                                                                                                                              
+                          man                                eat                       in                    house
+
+
+
+                          man                    is                                    in                    house
+			  			   				       			     
+
+
+
+
+
+
+                          the 
+			  car                      is                                  in                    gear
+
+
+
+			the 
+			road			   is				       in                     worse 
+						   				       			      shape 
+                        than 
+
+			it                        was 
+
+
+
+                        I                          am       tall     er  
+
+                        than
+
+                        you
+
+
+
+                        the 
+			general 
+			conviction 
+			that 
+			our 
+			side                       is                                  in                    the 
+						   				       			     right 
+	                                          and 
+						         act          ing 
+							 defensively                   over                  what 
+							 			       			     Russians 
+
+
+
+ the price                            is in the neighborhood of $100 
+ the roof is in danger of collapse 
+ the nerve center of the diamond industry is in Amsterdam 
+ the suspect is in custody 
+ the business is in receivership 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+   			the 
+			new 
+			car			   is							    a 
+			 			   							    delight
+
+ 
+
+			the 
+			new 
+			nation			   is							    a 
+
+						             test       ing                                 ground
+ 
+							                               for                  socioeconomic 
+										       			    theories 
+ 
+                        the 
+			new 
+			model                      is                                                       a 
+						   							    shade
+													    better than the old one 
+
+                        the 
+			team                       is							    a 
+						   							    unit 
+
+
+
+
+
+the book is a workmanlike job with chronology and bibliography and index 
+
+ the company still believes the chip is a leapfrog in integration and will pay huge dividends 
+
+
+
+
+
+
+
+
+
+ the actual                    things that produced the emotion you experienced 
+ the relatedness of all living things 
+ the sensuous joy from all     things fair 
+ the naive assumption that     things can only get better 
+ he could do many              things if he pleased 
+ he unerringly fixed           things for us
+ 
+ an acquisitive society in which the craving for material things seems never satisfied 
+
+ an owner of many                         things and needer of none 
+ She is always harping on the same old    things 
+ She always shoots her mouth off and says things she later regrets 
+ She died to worldly                      things and eventually entered a monastery 
+ 
+She heaved a deep sigh when she saw the list of things to do 
+ she was accused of worse                       things than cheating and lying 
+ she packed her                                 things and left 
+ they run                                       things by the book around here 
+ it took time to get into the swing of          things 
+ we have too many                               things to do and must prioritize 
+ we have several                                things in common 
+ They spoke of many                             things 
+ These                                          things befell 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		    
 		    
 		    

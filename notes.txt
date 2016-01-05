@@ -1572,9 +1572,9 @@ add in auxillary verbs
 
 
 
-
-
-
+                                            want
+                                            dare
+                                            used-to
                                             need(s)
                                             do(es) 
                                             ought
@@ -1683,6 +1683,141 @@ space                             ()                               ()
 
 
 
+
+
+
+
+
+
+                                            ...   be
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+
+                                                                                                            
+                          man                                                          in                    house           
+                                                                                                                               
+                                                                                                                                      
+                                                                                                                                                                                                                                                              
+
+
+                          man                                eat                       in                    house
+
+
+
+
+
+                          man                    is                                    in                    house
+			  			   				       			     
+
+
+
+
+
+
+
+
+
+ I was caught in traffic and missed the meeting 
+ I was caught in the bastardly traffic 
+ I was caught short 
+ I was dying with embarrassment when my little lie was discovered 
+ I was dying to leave 
+ I was never any good at art 
+ I was struck by the starkness of my father's room 
+ I was scared out of my wits 
+ I was wrong in her eyes 
+ I was hoping for a yes 
+ I was recalled to the present by the apparition of a frightening specter 
+
+
+
+
+                                            ...   be
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+                         I                       was        caught    catch-ed        in                   traffic 
+                                                  
+                                                 and        miss            ed                             the 
+                                                                                                           meeting 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+backup:
+
+
+
+
+
+
+name, 
+personal pronouns, modes (1 to 1, 1 to many, 1 to self)
+
+  - come earily
+
+
+
+
+                                            ...   be
+                        (det)               shld  not                                                      (det) 
+		        (adj)               coud  is                         -s                            (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
+
+
+
+                         man                                 talk
+
+
+                         ken                                 talk
+
+
+                         I                                   talk
+                         I                                   talk      ing                        // "ing" is first morphene
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 the difficulties in which the question is involved 
 a city in which communism and democracy had to live side by side 
 a binary star is a system in which two stars revolve around each other 
@@ -1755,25 +1890,9 @@ bank is a building in which the business of banking transacted
 
 
 
-                                            ...   be
-                        (det)               shld  not                                                      (det) 
-		        (adj)               coud  is                         -s                            (adj) 
-                        (noun)-(p)          woud  have      (adv)           -ed                            (noun)-(in)                         
-       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)               (on)     AA                  
-   ------------         ----------     ---------------      ------    ---------      -----     ----        ------          ---------------
-
-
-                                                                                                            
-                          man                                                          in                    house           
-                                                                                                                               
-                                                                                                                                      
-                                                                                                                                                                                                                                                              
-                          man                                eat                       in                    house
 
 
 
-                          man                    is                                    in                    house
-			  			   				       			     
 
 
 
@@ -1851,8 +1970,8 @@ bank is a building in which the business of banking transacted
 			the 
 			new 
 			nation			   is							    a 
-
-						             test       ing                                 ground
+						                                                            testing
+                                                                                                            ground
  
 							                               for                  socioeconomic 
 										       			    theories 
@@ -1918,6 +2037,127 @@ She heaved a deep sigh when she saw the list of things to do
 
 
 
+a. Tom has been reading Tesnière.
+b. Who has Tom been reading? - The direct object corresponding to Tesnière has been wh-fronted as the wh-word who.
+a. She should stop talking about syntax.
+b. What should she stop talking about? - The object of the preposition corresponding to syntax has been wh-fronted as the wh-word what.
+a. They want to visit us tomorrow.
+b. When do they want to visit us? - The adjunct corresponding to tomorrow has been wh-fronted as the wh-word when.
+a. She is happy.
+b. What is she? - The predicative adjective corresponding to happy has been fronted as the wh-word what.
+These examples illustrate that wh-fronting occurs when a constituent is questioned that appears to the right of the finite verb in the corresponding declarative sentence. Consider in this regard that when the subject is questioned, there is no obvious reason to assume that wh-fronting has occurred because the default position of the subject is clause-initial:
+a. Fred is working hard.
+b. Who is working hard? - The subject corresponding to Fred already appears at the front of the sentence, so there is no reason to assume that who has been fronted.
+
+
+
+
+
+
+
+                                            want   
+					    dare   
+					    used-to
+					    need(s)
+					    do(es) 
+					    ought  
+					    shall  
+					    must   
+					    might  
+					    may	   
+					    can	   
+					    should 
+					    could  
+					    would  
+					    will   
+
+
+                                            ...
+                        (det)               shld  not                                               (det) 
+		        (adj)               coud  is                         -s                     (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                     (noun)                         
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)                     AA                  
+   ------------         ----------     ---------------      ------    ---------      -----          ------     ---------------
+
+
+                        -I                   want          to  go
+                                                            
+
+
+                        -I                   wanna             go    
+                                                         
+
+
+
+                        -you                 want                                                    her
+                                                          -to  go 
+                                                           
+                                                            
+
+
+                                                                                                    -who      
+                        -you                want                                                             
+                                                          -to  go                                            
+                                                           
+                                                            
+*who you wanna go                                                              
+
+can't contract across a re-entry?
+
+
+                                                                         
+
+
+you want Ken to go
+
+who do you want to go
+who do you wanna go
+
+   you want ken to feed the dog
+who do you want to feed the dog?
+who do you wanna   feed the dog?
+
+
+I want to go
+I wanna go
+
+
+
+
+a. Tom has been reading Tesnière.
+b. Who has Tom been reading? - The direct object corresponding to Tesnière has been wh-fronted as the wh-word who.
+
+
+
+
+                                            ...
+                        (det)               shld  not                                                     (det) 
+		        (adj)               coud  is                         -s                           (adj) 
+                        (noun)-(p)          woud  have      (adv)           -ed                           (noun)-(in)               
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)    (in)              (on)     AA        
+   ------------         ----------     ---------------      ------    ---------      -----     ----       ------          ----------
+
+
+
+                      -Tom                                    read                                        book
+
+
+
+                                                                                                          -what
+                       Tom                                    read?
+
+
+
+
+
+
+
+                        -Tom                      is          read          ing                             book
+
+
+                                                                                                           -what
+                                                 is          
+                        Tom                                  read          ing
 
 
 
@@ -1928,22 +2168,160 @@ She heaved a deep sigh when she saw the list of things to do
 
 
 
+
+Chomsky 2013
+ 		    
+do they expect to talk to each other?	
+They received instructions from John to talk to each other		    
+
+can eagles that fly swim?
+		    
+(b) instinctively, eagles that fly swim
+(7)  are eagles that fly swimming?
+(8) *are eagles that swimming fly’’
+
+		    
+                                            ...
+                        (det)               shld  not                                            
+		        (adj)               coud  is                         -s                  (det) 
+                        (noun)-(p)          woud  have      (adv)           -ed                  (adj)                
+       IO                      (t)     (te) will  not       (verb)    (te) -ing      (prep)      (noun)        AA        
+   ------------         ----------     ---------------      ------    ---------      -----       ------       ----------
+
+
+
+                                                            -instinctively
+                          -eagles 
+                          -that                              fly 
+
+                                                            -swim
+
+
+
+
+adverb (instinctively) cannot go before "that"
+
+*eagles instinctively that fly can swim
+
+adv can go in any other posistion
+
+
+After "eagles" fires, two nodes are possible, "swim" and "that fly".   logic must decide which node to fire next.  
+
+The "that fly" clause can be fired, if not it is dropped, sentence would be "eagles swim"
+
+
+
+adverbs (when present) can compete with any node in any parcel to be the next node to fire as the sentence is generated
+
+
+
+-----
+                           -eagles           
+                           -that                             fly
+                          
+
+                           -eagles         can               swim                                             
+
+
+
+                          -eagles     
+                          -that                              fly
+
+                                         -can                swim
+
+ 
+
+                                         -can 
+                           -eagles                                                                   
+                           -that                             fly
+                                                                        
+                                                            -swim?
+
+
+
+
+
+
+                         -They                               receive         ed                  instructions 
+
+                                                                                       -from     John 
+
+                                                            -to talk                    to 
+                         -each 
+                          other
+
+
+
+
+---------------------
+		    
+                         -they                               expect 
+
+                                                            -to talk                  to          
+                         -each 
+                          other		    
+
+
+		    
+antecedent goes in same parcel?
+
+
+		    
+	    
+		    
+------
 		    
 		    
 		    
 		    
+                                            ...
+                        (det)               shld  not                                           
+		        (adj)               coud  is                        -s                 (det) 
+                        (noun)-(p)          woud  have     (adv)           -ed                 (adj)                
+       IO                      (t)     (te) will  not      (verb)    (te) -ing     (prep)      (noun)               AA        
+   ------------         ----------     ---------------     ------    ---------     -----       ------              ----------
+                                                                                 
+
+(adv)                                                                                                                (adv) instinctively
+
+                                                                                                                
+      eagles ------------------------------------------------------------------------------------------------------  eagles
+
+  swim -------------------------------------------------------------------------------------------------------------------swim
+
+
+                  
+                         (adv) --------- (adv) ----------- (adv) ------------------ (adv) ------(noun) ---(adv)
+                         (noun)          (te)              (verb)                   (prep)         
+
+                          -eagles                           swim
+
+ 
+
+                          -eagles                           swim                 instinct ively   
+
+
+                                                            
 		    
 		    
 		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
+adverb (instinctively) cannot go before "that", nor after (prep)
+
+*eagles instinctively that fly can swim
+
+adv can go in any other posistion
+
+
+After "eagles" fires, two nodes are possible, "swim" and "that fly".   logic must decide which node to fire next.  
+
+The "that fly" clause can be fired, if not it is dropped, sentence would be "eagles swim"
+
+
+
+adverbs (when present) can compete with any node in any parcel to be the next node to fire as the sentence is generated
+
+
 		    
 		    
 		    

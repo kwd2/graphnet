@@ -1,0 +1,748 @@
+
+
+
+
+
+
+
+
+
+
+
+                 (IO)           (nouns)      (verbs)               (AA)               
+                 (IO)           (nouns)      (verbs)   (te)        (AA)               
+                 ---------      -------      ------    ----       ---------           
+
+
+
+I                                man         talk
+
+
+O                                man         talk       s            // correction
+
+
+
+
+
+
+
+
+                 (IO)           (nouns)      (verbs)               (AA)               
+                 (IO)           (nouns)      (verbs)   (te)        (AA)               
+                 ---------      -------      ------    ----       ---------           
+
+
+
+I                                man         talk
+
+
+O                                human       talk       s            // hypernym analogy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)               woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----       ------      ----------
+
+
+ I                   dog                                 bark           s                                 
+
+ I                   (what)  
+
+ O                   dog                                 bark           s                              
+
+---
+
+ I                   dog
+
+ I                   (what)  
+
+ O                   dog
+
+
+---
+
+ I                   dog
+
+ I                   man
+
+
+ I                   (who)     
+
+ O                   man       
+
+
+ I                   (what)
+
+ O                   dog
+
+
+
+
+
+
+
+
+
+
+that how not the data
+
+
+
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)               woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----       ------      ----------
+
+
+ I                   dog
+
+ I                   (what)  
+
+ O                   dog
+
+
+
+
+
+
+   a     (noun)
+   the   (noun)
+   what  (noun)
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)               woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----       ------      ----------
+
+
+                     1  dog
+
+ I                   2  (what)  
+
+ O                   3  dog
+
+
+----
+
+                     1  dog
+
+
+ I                   2  (what)  
+                     3  dog
+
+
+ O                   4  the
+                        dog
+
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)               woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----       ------      ----------
+
+
+                     1  dog                              1  bark
+
+
+ I                                                       2  (what)  
+
+                     3  dog                              3  do
+
+
+
+
+
+
+
+
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)  (t)          woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----       ------      ----------
+
+
+                     
+ I   the  dog        1  (the)
+
+                     2  dog
+    
+
+
+ O   what dog        1  (what)
+
+                     2  dog
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)  (t)          woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----       ------      ----------
+
+
+                       -I                      want      to  go
+                                                            
+
+                       -I                     wanna          go    
+                                                         
+
+
+                        -you                 want                                                    him
+
+                                                        -to  go 
+                                                           
+                                                            
+
+                                                                                                    -who      
+                        -you                want                                                             
+                                                        -to  go                                            
+                                                           
+                                                            
+*who you wanna go                                                              
+
+can't contract across a re-entry?
+
+
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)  (t)          woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----      ------      ----------
+
+ 
+                   --they                                 read                                 book
+                                                                               
+                                                                                  -at          library
+
+
+
+
+                   --they                                 read                                 book
+                     
+                                                         -and
+
+                                                         -eat                                  lunch                            
+
+
+
+
+                                                                                              --what
+                    -they                                 read
+
+
+
+
+
+
+                                         ...   be
+                                         shld  not                                               
+	             (det)               coud  is                         -s                 (det) 
+                     (adj)  (t)          woud  have      (adv)           -ed                 (adj)                          
+       IO            (noun)-(p)     (te) will  not       (verb)    (te) -ing      (prep)     (noun)          AA
+   ---------         ----------     ---------------      ------    ---------      -----      ------      ----------
+
+
+
+                                                                                               (who)   (p)
+                                                                                             --(what)  (t)
+
+                       -Tom                               read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ instinctively  eagles                swim                in                water
+                eagles  instinctively swim                in                water
+                eagles                swim  instinctively in                water
+*               eagles                swim                in instinctively  water
+                eagles                swim                in                water  instinctively
+
+
+
+ instinctively  eagles                 will                 eat                     fish 
+                eagles  instinctively  will                 eat                     fish
+                eagles                 will  instinctively  eat                     fish
+*               eagles                 will                 eat   instinctively     fish
+                eagles                 will                 eat                     fish  instinctively
+
+
+
+
+ instinctively  eagles                   eat                     fish 
+                eagles  instinctively    eat                     fish
+                eagles                   eat                     fish
+*               eagles                   eat   instinctively     fish
+                eagles                   eat                     fish  instinctively
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    
+                                            ...
+                        (det)               shld  not                                           
+		        (adj)               coud  is                        -s                 (det) 
+                        (noun)-(p)          woud  have     (adv)           -ed                 (adj)                
+       IO                      (t)     (te) will  not      (verb)    (te) -ing     (prep)      (noun)               AA        
+   ------------         ----------     ---------------     ------    ---------     -----       ------              ----------
+                                                                                 
+
+(adv)                                                                                                                (adv) instinctively
+
+                                                                                                                
+      eagles ------------------------------------------------------------------------------------------------------  eagles
+
+  swim -------------------------------------------------------------------------------------------------------------------swim
+
+
+                         (adv)           (adv)             (adv)                    (adv)               (adv)
+                         (noun) -------- (te) ------------ (verb) ----------------- (prep) ---- (noun)         
+                          -(that)
+
+
+                          -eagles                           swim
+ 
+
+                          -eagles                           swim                                         instinct ively    
+                                                           
+
+                          -eagles                           
+                           -that                            fly
+
+                                                           -swim
+
+
+
+
+
+		    
+                                            
+                                  
+		        (det)                 
+                        (adj)  (t)         
+       IO               (noun)-(p)     (te)      (verb)      (te)         (prep)      (noun)               AA        
+   ------------         ----------     -----     ------      ----         -----       ------              ----------
+
+
+
+
+
+
+                                
+		        (det)                 
+                        (adj)-(-ly) 
+       IO               (noun)          (te)                (verb)      (te)               AA        
+   ------------         ----------       -----               ------      ----              ----------
+
+
+
+
+
+
+          (n-v) ------- (noun) -------- (te) ------------ (verb) ----------------------- (X)
+                        (adv)           (adv)             (adv)                          (adv)                        
+
+
+
+
+
+(adv) forms from "ly" ending on adjcetives
+
+
+(adv) forms before prep and object noun so is only available in these posistions
+
+
+simple noun verb adverb uterances
+
+     man   run   quickly
+
+
+
+
+
+
+
+
+                                
+		        (det)                 
+                        (adj) 
+       IO               (noun)         (te)           (verb)      (te)               AA        
+   ------------         ----------     -----          ------      ----              ----------
+
+
+                         the
+                         quick
+                         man                          run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+		        (det)                                                  (det)      
+                        (adj) 						       (adj) 	  
+       IO               (noun)          (te)        (verb)  (te)               (noun)                  AA        
+   ------------         ----------       ---        ------   ----              ----------              ----------
+
+
+
+
+
+
+          (n-v) ------- (noun) -------- (te) ------------ (verb) --------------- (noun)  --------           (X)
+                        (adv)           (adv)             (adv)                  (-)                        (adv)                        
+
+
+
+                        
+ 
+                        eagles                             eat                   fish                       instinctively       
+
+
+
+
+
+
+
+                       agent                                                    patient
+                       experiencer                                              stimulus   
+                       force
+
+
+
+
+
+
+.Agent		       : deliberately performs the action                                         ( .Bill. ate his soup quietly.).
+.Experiencer	       : the entity that receives sensory or emotional input                      ( .Susan. heard the song. I cried.).
+.Stimulus	       : Entity that prompts sensory or emotional feeling - not deliberately      ( Kim detests .sprouts. ).
+Theme		       : undergoes the action but does not change its state                       ( We believe in .one God.. I have two children. I put the book on the table. He gave the gun to the police officer.) (Sometimes used interchangeably with patient.)
+.Patient	       : undergoes the action and changes its state                               ( The falling rocks crushed .the car.). (Sometimes used interchangeably with theme.)
+Instrument	       : used to carry out the action                                             (Jamie cut the ribbon with .a pair of scissors.).
+Force or Natural Cause : mindlessly performs the action                                           ( An .avalanche. destroyed the ancient temple.).
+Location 	       : where the action occurs 						  (e.g., Johnny and Linda played carelessly in .the park. I'll be at Julie's house studying for my test.).
+Direction or Goal      : where the action is directed towards 					  (e.g., The caravan continued on toward the distant oasis. He walked to school.).
+Recipient    	       : a special kind of goal associated with verbs expressing a change in ownership, possession. 
+                                                                                                  (E.g., I sent John the letter. He gave the book to her.)
+Source or Origin       : where the action originated 	   	      		   	          (e.g., The rocket was launched from Central Command. She walked away from him.).
+Time   	  	       : the time at which the action occurs 					  (e.g., The rocket was launched yesterday.).
+Beneficiary	       : the entity for whose benefit the action occurs 			  (e.g.. I baked Reggie a cake. He built a car for me. I fight for the king.).
+Manner		       : the way in which an action is carried out 				  (e.g., With great urgency, Tabitha phoned 911.).
+Purpose		       : the reason for which an action is performed 				  (e.g., Tabitha phoned 911 right away in order to get some help.).
+Cause		       : what caused the action to occur in the first place; not for what, rather because of what 
+                                                                                                  (e.g., Because Clyde was hungry, he ate the cake.).
+
+
+
+
+
+                               
+		        (det)                                                  (det)      
+                        (adj) 						       (adj) 	  
+       IO               (noun)            (verb)          (prep)               (noun)                  AA        
+   ------------         ----------        ------          ------               ----------              ----------
+
+
+
+          (n-v) ------- (noun) ---------- (verb) -------------------------------------------------------- (X)
+                        (adv)             (adv)                                                           (adv)                        
+
+
+
+
+
+
+          (n-v) ------- (noun) ---------- (verb) ----------------------------- (noun1) ------------------ (X)
+                        (adv)             (adv)                                (-)                        (adv)                        
+
+
+
+                        
+ 
+   
+          (n-v) ------- (noun) ---------- (verb) ----------------------------- (noun1) ------------------ (X)
+                        (adv)             (adv)                                (-)                        (adv)                        
+
+
+                                                 ----------(prep)------------- (noun2)  ------------------ (X)
+                                                           (adv)
+
+
+
+                       eagles              swim             in                 water
+
+             easily    eagles              swim             in                 water
+                       eagles    easily    swim             in                 water
+                       eagles              swim  easily     in                 water
+                       eagles              swim             in   *easily       water
+                       eagles              swim             in                 water      easily                               
+
+
+
+
+
+
+                       agent                                                    patient
+                       experiencer                                              stimulus   
+                       force
+
+
+
+
+
+
+
+                                          (adv)
+                                          (prep)
+       IO               (noun)            (verb)                               (noun)                  AA        
+   ------------         ----------        ------                              ----------              ----------
+
+
+ 
+   
+          (n-v) ------- (noun) ---------- (verb) ----------------------------- (noun1)  <-            (X)
+                        (adv)  <-         (adv)  <-
+                                          (prep) ------
+                                          (-)         |
+                                                      ------------------------ (noun1)' <-  
+
+
+
+proto language noun preposition utterances:
+
+
+I     where   it?
+
+O     it      near
+
+
+
+                         it               near
+                         it               far
+                         it               in
+                         it               on
+
+
+
+             easily      it               on
+                         it     easily    on
+                         it               on    easily
+
+
+
+
+
+
+
+
+
+
+
+.Agent		       : deliberately performs the action                                         ( .Bill. ate his soup quietly.).
+.Experiencer	       : the entity that receives sensory or emotional input                      ( .Susan. heard the song. I cried.).
+.Stimulus	       : Entity that prompts sensory or emotional feeling - not deliberately      ( Kim detests .sprouts. ).
+.Theme		       : undergoes the action but does not change its state                       ( We believe in .one God.. I have two children. I put the book on the table. He gave the gun to the police officer.) (Sometimes used interchangeably with patient.)
+.Patient	       : undergoes the action and changes its state                               ( The falling rocks crushed .the car.). (Sometimes used interchangeably with theme.)
+.Instrument	       : used to carry out the action                                             (Jamie cut the ribbon with .a pair of scissors.).
+.Force or Natural Cause: mindlessly performs the action                                           ( An .avalanche. destroyed the ancient temple.).
+.Location 	       : where the action occurs 						  (e.g., Johnny and Linda played carelessly in .the park. I'll be at Julie's house studying for my test.).
+.Direction or Goal     : where the action is directed towards 					  (e.g., The caravan continued on toward the distant oasis. He walked to school.).
+.Recipient    	       : a special kind of goal associated with verbs expressing a change in ownership, possession. 
+                                                                                                  (E.g., I sent John the letter. He gave the book to her.)
+.Source or Origin      : where the action originated 	   	      		   	          (e.g., The rocket was launched from Central Command. She walked away from him.).
+
+.Time   	       : the time at which the action occurs 					  (e.g., The rocket was launched yesterday.).
+
+.Beneficiary	       : the entity for whose benefit the action occurs 			  (e.g.. I baked (for) Reggie a cake. He built a car for me. I fight for the king.).
+.Manner		       : the way in which an action is carried out 				  (e.g., With great urgency, Tabitha phoned 911.).
+.Purpose	       : the reason for which an action is performed 				  (e.g., Tabitha phoned 911 right away in order to get some help.).
+.Cause		       : what caused the action to occur in the first place; not for what, rather because of what 
+                                                                                                  (e.g., Because Clyde was hungry, he ate the cake.).
+
+
+
+
+
+
+                                          (adv)
+                                          (prep)
+       IO               (noun)            (verb)                               (noun)                  AA        
+   ------------         ----------        ------                              ----------              ----------
+
+
+                        (adv)  <-         (adv)  <-
+          (n-v) ------- (noun) ---------- (verb) ----------------------------- (noun1)  <-            (X)
+                                          (prep) ------
+                                          (-)         |
+                                                      ------------------------ (noun1)' <-  
+
+
+
+
+                       (noun)       ---- (verb) -------------------             (noun1)
+
+
+                       agent                                                    patient
+                       experiencer                                              stimulus   
+                       force
+
+
+                                    ---- (prep) -------------------             (noun1)'
+                   
+
+                                                                                location     on in
+                                                                                time                 before  after
+                                                                                direction                             to  from
+                                                                                theme
+                                                                                instrument                 
+                                                                                recipient                             to
+                                                                                beneficiary                                      for 
+                                                                                mannor
+										purpose
+										
+
+
+best list of prepositions:
+
+------
+IO2
+	 305102.(a:the)_rev
+
+		  43596.of
+		  22612.in
+		  11630.to
+		   8336.with
+		   7500.on
+		   6534.by
+		   5576.as
+		   5174.from
+		   4696.for
+
+		   3522.at
+
+		   2578.into
+		    998.through
+		    946.between
+		    872.over
+		    760.during
+		    756.after
+		    652.around
+		    572.under
+		    540.up
+		    474.near
+		    456.about
+		    420.off
+		    416.along
+		    382.toward
+		    382.against
+		    376.within
+
+
+
+
+
+
+
+
+
+                                          (adv)
+                                          (prep)
+       IO               (noun)            (verb)                               (noun)                  AA        
+   ------------         ----------        ------                              ----------              ----------
+
+
+                        (adv)  <-         (adv)  <-
+          (n-v) ------- (noun) ---------- (verb) ----------------------------- (noun1)  <-            (X)
+                                          (prep) ------
+                                          (-)         |
+                                                      ------------------------ (noun1)' <-  
+
+

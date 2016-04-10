@@ -578,9 +578,43 @@ Cause		       : what caused the action to occur in the first place; not for what
 
 
 
+          instinctively     eagles                  eat                     fish
+	  		    eagles  instinctively   eat                     fish
+	  		    eagles                  eat    *instinctively   fish
+	  		    eagles                  eat                     fish     instinctively
+
+
+
 
 
                                           (adv)
+                                          (prep)
+       IO               (noun)            (verb)                               (noun)                  AA        
+   ------------         ----------        ------                              ----------              ----------
+
+
+ 
+   
+                        (adv)  <-         (adv)  <-
+          (n-v) ------- (noun) ---------- (verb) ----------------------------- (noun1)  <-            (X)
+                                          (X) 
+
+
+
+                       -instinctively
+                       -eagles             eat                                  fish
+
+
+
+
+
+
+
+
+
+
+
+                                         (adv)
                                           (prep)
        IO               (noun)            (verb)                               (noun)                  AA        
    ------------         ----------        ------                              ----------              ----------
@@ -593,6 +627,8 @@ Cause		       : what caused the action to occur in the first place; not for what
                                           (prep) ------
                                           (-)         |
                                                       ------------------------ (noun1)' <-  
+
+
 
 
 
@@ -735,14 +771,1024 @@ IO2
 
                                           (adv)
                                           (prep)
-       IO               (noun)            (verb)                               (noun)                  AA        
-   ------------         ----------        ------                              ----------              ----------
+       IO               (noun)            (verb)                  (noun)                  AA        
+   ------------         ----------        ------                  ----------              ----------
 
 
                         (adv)  <-         (adv)  <-
-          (n-v) ------- (noun) ---------- (verb) ----------------------------- (noun1)  <-            (X)
-                                          (prep) ------
-                                          (-)         |
-                                                      ------------------------ (noun1)' <-  
+          (n-v) ------- (noun) ---------- (verb) ---------------- (noun1)                (X)
+                                          (prep) ------           (<-)
+                                          (X)         |
+                                                      ----------- (noun1)'   
+                                                                  (<-)
 
 
+
+ 
+                       -eagles             eat                      fish 
+
+                                           in                       water
+
+                                           instinctively
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     (adv)
+                                                     (prep)
+       IO               (noun)          (te)         (verb)                  (noun)                  AA        
+   ------------         ----------      ----         ------                  ----------              ----------
+
+
+                        (adv)<-        (adv)<-       (adv)<-
+          (n-v) ------- (noun) ------- (te) -------- (verb) ---------------- (noun1)                (X)
+                                                     (prep) ------           (<-)
+                                                     (X)         |
+                                                                 ----------- (noun1)'   
+                                                                             (<-)
+
+
+
+ 
+                       -eagles         will not      eat                      fish 
+
+                                                     in                       water
+
+                                                     instinctively
+
+
+
+
+
+
+
+(a) can eagles that fly swim?
+(b) instinctively, eagles that fly swim
+
+
+                                                     (adv)
+                        (adj)                        (prep)
+       IO               (noun)          (te)         (verb)                  (noun)                  AA        
+   ------------         ----------      ----         ------                  ----------              ----------
+
+
+                        (adv)<         (adv)<        (adv)<
+          (n-v) ------- (noun) ------- (te) -------- (verb) ---------------- (noun1)                (X)
+                                                     (prep) ------           (<-)
+                                                     (X)         |
+                                                     (that)<     ----------- (noun1)'   
+                                                                             (<-)
+
+
+
+                                        -can
+                          -big
+                           eagles                    that
+                                                     fly
+
+                                                    -swim
+
+
+                                        -can
+                          -eagles                    swim
+                                                     
+
+
+(that) function allows a second verb to fire
+
+
+
+
+
+
+
+                          -instinctively
+                          -eagles                    that   
+                                                     fly   
+
+                                                    -swim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) can eagles that fly swim?
+(b) instinctively, eagles that fly swim
+
+
+                        (adv)                    (adv)
+                        (te)                     (prep)
+       IO               (noun)                   (verb)                  (noun)                  AA        
+   ------------         ----------               ------                  ----------              ----------
+
+
+                        (adv) <                  (adv) <
+          (n-v) ------- (noun)<         -------  (verb) ---------------- (noun1)                (X)
+                        (te)  <         |        (prep) ------           (<-)
+                        (-) -------------        (X)         |
+                                                 (that)<     ----------- (noun1)'   
+                                                                         (<-)
+
+
+                       -can
+                        eagles                   swim
+                                                     
+
+                       -can
+                       -big
+                        eagles                   that
+                                                 fly
+
+                                                -swim
+
+
+
+        instinctively  can                big                  eagles               swim 
+                       can *instinctively big                  eagles               swim
+                       can                big  *instinctively  eagles               swim
+                       can                big                  eagles instinctively swim
+                       can                big                  eagles               swim   instinctively
+
+
+
+
+
+
+(Guess) what boys eat
+
+
+                        (adv)                    (adv)
+                        (te)                     (prep)
+       IO               (noun)                   (verb)                  (noun)                  AA        
+   ------------         ----------               ------                  ----------              ----------
+
+
+                        (adv) <                  (adv) <
+          (n-v) ------- (noun)<         -------  (verb) ---------------- (noun1)                (X)
+                        (te)  <         |        (prep) ------           (<-)
+                        (-) -------------        (X)         |
+                                                 (that)<     ----------- (noun1)'   
+                                                                         (<-)
+
+
+
+                        -boys                    eat                     chips
+
+
+
+                        -boys                    eat                     (what)?
+
+ 
+ 						 			 -what
+                        -boys                    eat
+
+
+ 						-guess			  what
+                        -boys                    eat
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        (adv)                    (adv)
+                        (te)                     (prep)
+       IO               (noun)                   (verb)                  (noun)                  AA        
+   ------------         ----------               ------                  ----------              ----------
+
+
+                        (adv) <                  (adv) <
+          (n-v) ------- (noun)<         -------  (verb) ---------------- (noun1)                (X)
+                        (te)  <         |        (prep) ------           (<-)
+                        (-) -------------        (X)         |
+                                                 (that)<     ----------- (noun1)'   
+                                                                         (<-)
+
+
+
+I                       man
+
+I                       (what)
+
+O                       man
+
+
+
+
+
+
+
+
+
+
+
+
+                        (adv)                    (adv)
+                        (te)                     (prep)
+       IO               (noun)                   (verb)                  (noun)                  AA        
+   ------------         ----------               ------                  ----------              ----------
+
+
+                        (adv) <                  (adv) <
+          (n-v) ------- (noun)<         -------  (verb) ---------------- (noun1)                (X)
+                        (te)  <         |        (prep) ------           (<-)
+                        (-) -------------        (X)         |
+                                                 (that)<     ----------- (noun1)'   
+                                                                         (<-)
+
+I                       person
+
+I                       man
+
+I                       (what)
+
+O                       man
+
+
+
+
+output most specific symbol?   symbols can be ordered by specificity.
+
+
+
+
+
+
+eagles  want to fly
+eagles  wanna   fly
+
+who you want to go
+who you wanna   go
+
+
+
+
+                        (adv)                    (adv)
+                        (te)                     (prep)
+       IO               (noun)                   (verb)                  (noun)                  AA        
+   ------------         ----------               ------                  ----------              ----------                
+
+
+                        (adv) <                  (adv) <
+          (n-v) ------- (noun)<         -------  (verb) ---------------- (noun1)                (X)
+                        (te)  <         |        (prep) ------           (<-)
+                        (-) -------------        (X)         |
+                                                 (that)<     ----------- (noun1)'   
+                                                                         (<-)
+
+
+                        eagles                   want
+                                                 to
+                                                 fly
+
+
+                        eagles                   want                     chicks
+                                                -to
+                                                 fly
+
+
+                       
+                                                                         -(what)
+                       -eagles                   want
+
+                                                -to
+                                                 fly
+
+
+
+
+
+
+
+
+
+
+                        (adv)                    (adv)
+                        (te)                     (prep)
+       IO               (noun)                   (verb)                  (noun)                  AA        
+   ------------         ----------               ------                  ----------              ----------                
+
+
+                        (adv) <                  (adv) <
+          (n-v) ------- (noun)<         -------  (verb) ---------------- (noun1)                (X)
+                        (te)  <         |        (prep) ------           (<-)
+                        (-) -------------        (X)         |
+                                                 (that)<     ----------- (noun1)'   
+                                                                         (<-)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 
+                                 
+       IO                         (nv)                         AA        
+   ------------                   ------                      ----------                
+
+
+          (n-v) --------------    (nv)     -----------      (X)
+                        
+
+
+int                               man
+                                  woman
+
+
+I                                 (what)
+
+
+O                                 man
+                                  and
+                                  woman
+
+
+
+
+
+                               
+                        
+
+
+                                 
+                                 
+       IO                        (nv)                         AA        
+   ------------                  ------                      ----------                
+
+
+                                   
+          (n-v) --------------    (nv)     -----------      (X)
+                        
+
+
+                                 man
+                                 that
+                                 hunt
+
+
+
+
+
+
+
+single symbol language:      run   stop     left    right     food    water     eat    drink    f^&k!   what   that
+
+
+we still communicate  using   single symbol sequences,  man woman eye contact, smile,  frown,  frown
+we still communicate  with    single symbol sequences,  man woman eye contact, smile,  frown,  frown
+
+
+
+
+questions possible
+
+
+      IO                        (nv)                         AA        
+   ------------                 ------                      ----------                
+
+
+                                   
+          (n-v) --------------  (nv)        -----------      (X)
+                        
+
+internal                        food
+
+I                               (what)
+
+O                               food
+
+
+
+
+
+
+      IO                        (nv)                         AA        
+   ------------                 ------                      ----------                
+
+
+                                   
+          (n-v) --------------  (nv)        -----------      (X)
+                        
+
+i                               food
+
+I                               (what)
+                                food
+
+O                               (that)
+                                food
+
+
+--
+
+I                               (which)
+                                food
+
+O                               (this)
+                                food
+
+
+
+
+
+
+
+
+i                               day
+
+I                               (
+
+O                               (this)
+                                food
+
+I                               (this)
+                                food
+
+O                               (that)
+                                food
+--
+
+O                               (yes)
+                                (that)
+                                food
+
+
+eagles  this day will fly
+eagles  this day      fly
+
+
+
+
+
+
+yes/no
+
+
+
+      IO                        (nv)                         AA        
+   ------------                 ------                      ----------                
+
+
+                                   
+          (n-v) --------------  (nv)        -----------      (X)
+                        
+
+
+I                               hunger ?      
+
+O                               (yes)
+
+--
+
+O                               no
+                                move
+
+I                               (why)
+
+O                               big
+                                man
+
+
+
+
+
+
+multisymbol   language:     "run fast" or run + tone (a symbol + a real value) or volume, gesture
+
+
+adverb/adjective node forms in (nv)
+
+
+                                 (ad)
+       IO                        (nv)                         AA        
+   ------------                  ------                      ----------                
+
+
+                                  (ad) 
+          (n-v) --------------    (nv)     -----------      (X)
+                                  (-)                        
+
+
+
+O                                 run !
+
+I                                 (why)
+
+O                                 (because) !!
+				  
+
+
+
+
+noun and verb bifurcate:
+
+
+
+
+                         (ad)                (ad)
+       IO                (n)                 (v)                          AA        
+   ------------          ------              ------                      ----------                
+		         
+		         
+                         (ad)<               (ad)< 
+          (n-v)  ------  (n) <     --------  (v) <                        (x)
+                         (-) -------         (x)                            
+
+
+
+
+                         (adv)                          (adv)
+       IO                (n)                            (v)                          AA        
+   ------------          ------                        ------                      ----------                
+		         
+		          
+                         (adv)        <               
+          (n-v)  ------  (det)(adj)(n)<                (adv)< 
+                         (-) ------------------------  (v)  <                       
+			     		     	       (x)                            
+
+
+
+
+   instinctively   big                 eagles                  fly
+                   big *instinctively  eagles                  fly
+                   big                 eagles  instinctively   fly
+                   big                 eagles                  fly  instinctively
+   
+
+
+
+
+   instinctively    eagles                  fly
+                    eagles  instinctively   fly
+                    eagles                  fly  instinctively
+   
+
+
+
+
+object clones from (n)
+
+
+
+
+                         (ad)                (ad)
+       IO                (n)                 (v)             (n1)             AA        
+   ------------          ------              ------          ----         ----------                
+		         
+		         
+                         (ad)<               (ad)                < 
+          (n-v)  ------  (n) <     --------- (v)  ---------- (n1)<      (x)
+                         (-) -------         (x)                            
+
+
+
+
+
+
+
+preposistions clone from the   (v) -- (n1)    structure
+
+
+
+
+                         (ad)                (ad)
+       IO                (n)                 (v)             (n1)             AA        
+   ------------          ------              ------          ----         ----------                
+		         
+		         
+                         (ad)<               (ad)                < 
+          (n-v)  ------  (n) <     --------- (v)  ---------- (n1)<          
+                         (te)<     |         (p)  ---------  (n2)<
+			 (-) -------     		     (x)                            
+
+
+
+
+
+
+
+single hypernym understand
+
+
+
+
+                         (ad)                (ad)
+       IO                (n)                 (v)             (n1)             AA / LTM / hypernym       
+   ------------          ------              ------          ----         ----------                
+		         
+		         
+                         (ad)<               (ad)                 
+          (n-v)  ------  (n) <     --------- (v)  ---------- (n1)<          
+                         (te)<     |         (p)  ---------  (n2)<
+			 (-) -------     		     (x) <                           
+
+
+
+                                                                            hypernym          LTM markov 
+                                                                            parcel            graph
+                                                                            --------          ----------
+
+
+
+I                        man                 talk                           human              human
+                                                                                 -man               -talk
+                                                                                 -woman
+
+                                                                                  |                                 // man and talk pulse    
+            man   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -                                 // must pulse until a 
+												     |              // different node is
+            talk  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -               // touched or fired
+                                                                      
+
+                                                                            |                 |
+i           human - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -                     // human fires by 
+                            											    // double touch
+                       
+
+i                         human               talk                                                                  // LTM markov sequence
+                                                                                                                    // fires internally
+                    												    // generates continuous 
+ 														    // agreement with "man talk"
+
+O                         human               talk                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+where is that thing
+
+
+I   am   good
+
+how are  you
+
+
+
+
+
+
+                         (ad)                (ad)
+       IO                (n)                 (v)             (n1)             AA / LTM / hypernym       
+   ------------          ------              ------          ----         ----------                
+		         
+		         
+                         (ad)<               (ad)<                 
+          (n-v)  ------  (n) <     --------- (v) ----------- (n1)<          
+                         (te)<     |         (p) ----------  (n2)<
+			 (-) -------         (x) <                           
+
+
+
+
+                         you       are                        good         
+
+                       
+                         you       are                        how
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+		         
+          (n-v)
+
+      
+                            -you         are                    good
+
+
+                             -you         are                    how?
+
+
+
+                                                                -how
+                                         -are                           
+                             -you?
+
+
+
+     tommorrow      you                are                free
+                    you   tommorrow    are                free
+                    you                are   tommorrow    free
+                    you                are                free   tommorrow
+
+     tommorrow      how                are                you
+                    how  *tommorrow    are                you
+                    how                are  *tommorrow    you
+                    how                are                you    tommorrow
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+		                 
+                                                                                  LTM
+                                                                                  -----
+int1                           eagles               fly                          
+                                                                                  eagles
+                               eagles               swim                                -fly
+                                                                                        -swim 
+
+
+
+O1                             -eagles,
+
+                               -that                fly,
+
+                                                   -swim
+
+
+
+int2                           eagles              fly
+
+                               eagles              swim
+
+
+
+the (n) node fires twice            
+
+
+               (n)   [(n)   (v)  (x)]    (v)   (x)  
+
+               eagles that  fly          swim
+
+
+
+
+
+
+
+
+
+ the story of the Trojan War is told in Homer's Iliad 
+ the story of exposure to lead 
+ the story was on the 11 o'clock news 
+ the story was passed down from father to son 
+ the story is going the rounds in Washington 
+ the story is true 
+ the story begins with no introductory retrospections 
+ the story went around in the office 
+ the story or argument runs as follows 
+ the story formed by a mansard roof is usually called the garret 
+
+ the school was built in 1932 
+ the school was founded in 1900 
+ the school was ill-equipped 
+ the school was very selective in its admissions 
+ the school of hard knocks 
+ the school of naturalistic writers 
+ the school kept the cups is a special glass case 
+ the school keeps parents informed 
+ the school has excellent teachers 
+ the school maintains unsupervised study halls during free periods 
+
+ the train is due in 15 minutes 
+ the train is prompt 
+ the train is late 
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+
+
+
+
+I1                            the 
+                              story                  of          the 
+		     				     		 Trojan 
+								 War 
+
+                                          is         told 
+
+                                                     in          Homer's 
+                                                                 Iliad 
+
+
+
+
+int1                           story                of           war
+                                                                 
+
+                               story                told
+			       			   -in           book
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+
+
+                             -tom                   read         book
+
+
+                             -tom                   read         (what)?
+
+                                                                  
+                                                                -(what)
+                             -tom                   read?                          
+
+
+
+ Tom has been reading Tesnière.         [ref wikipedia wh-movement]:
+ Who has Tom been reading? -            The direct object corresponding to Tesnière has been wh-fronted as the wh-word who.
+
+
+
+            intently    tom                    read                book
+                        tom    intently        read                book
+                        tom                    read    *intently   book
+                        tom                    read                book     intently
+
+
+
+            *intently    what                  tom                read
+                         what    intently      tom                read
+                         what                  tom    intently    read
+                         what                  tom                read    intently
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aborigines
+
+
+
+
+
+
+suffix	        gloss
+
++aye		                  emphasis
++ewe		        stronger  emphasis
++eyewe		really  strong    emphasis
+
+
++tye-akenhe	negative
++tyale		negative imperative
+
+
++tyeke		purpose or intent
+
+
++ke		for
+
++le			actor in a sentence
++le			instrument
++le			location
+
++le-arlenge	together, with
+
++nge		from
+
+-akerte		having
+
+-arenye		from (origin), association
+
+-arteke		similarity
+-atheke		towards
+
+-iperre, -ipenhe	after, from
+
+-kenhe	 	belongs to
+
+-ketye		because (bad consequence)
+
+-kwenye		not having, without
+-mpele		by way of, via
+
+-ntyele		from
+-werne		to
+
++lhe		reflexive
++me		present tense
++rre/+irre	reciprocal
+
++ke		past
++tyenhe		future
+
+
+Ø		imperative

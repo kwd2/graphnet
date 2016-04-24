@@ -1554,40 +1554,86 @@ how are  you
 			 (p) ----------  (n2)< 
 			 (x)  <                 
 
-
                                                     (v)          (n1)
        IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
    ------------      ----     ------     ----       -----        ----             ----------                
 		                 
                                                                                   LTM
                                                                                   -----
-int1                           eagles               fly                          
+i1            1                eagles               swim                          
                                                                                   eagles
-                               eagles               swim                                -fly
+              2                eagles               fly                                 -fly
                                                                                         -swim 
 
 
 
-O1                             -eagles,
+O1            1               -eagles,
 
-                               -that                fly,
+              2               -that                fly,
 
-                                                   -swim
-
-
-
-int2                           eagles              fly
-
-                               eagles              swim
+              1                                   -swim
 
 
 
-the (n) node fires twice            
 
 
-               (n)   [(n)   (v)  (x)]    (v)   (x)  
+               (n-v)    (n)   (n-v)  [  (n)   (n-v)    (v)    (x)]    (v)   (x)  
 
-               eagles that  fly          swim
+O1                    eagles            that           fly            swim
+
+         NL:     1       1      1        2      2       2      2       1     1            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+		                 
+
+
+I1            1                -eagles
+
+              2                -that                fly
+
+              1                                    -swim
+
+
+
+i1            1                eagles               swim
+
+              2                eagles               fly
+
+
+
+
+               (n-v)    (n)   (n-v)  [  (n)   (n-v)    (v)     (x)]     (v)   (x)  
+
+I1                    eagles            that           fly              swim
+
+         NL:     1       1      1        2      2       2        2       1     1            
+
+
+
+
 
 
 
@@ -1792,3 +1838,655 @@ suffix	        gloss
 
 
 Ø		imperative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+
+
+                              hear         is        to 
+                                                     receive       a 
+                                                                   communication 
+                                      
+                                                    -from          someone 
+
+
+---
+
+                              hear                   receive       communication  
+                                                                   
+                                                    -from          someone
+
+
+---
+
+                              hear                   receive       communication  
+                                                                   
+
+
+ hear is to receive a communication from someone 
+ hear is to perceive via the auditory sense 
+ hear is to examine or hear by judicial process 
+ hear our prayers, Heavenly Father 
+ hear in a roundabout way that her ex-husband was marrying her best friend 
+ hear the rolling thunder 
+ 
+ 
+
+
+
+
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+		                 
+
+
+I1            1                -eagles
+
+              2                -that                fly
+
+              1                                    -swim
+
+
+
+i1            1                eagles               swim
+
+              2                eagles               fly
+
+
+
+
+               (n-v)    (n)   (n-v)  [  (n)   (n-v)    (v)     (x)]     (v)   (x)  
+
+I1                    eagles            that           fly              swim
+
+         NL:     1       1      1        2      2       2        2       1     1            
+
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)             AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----             ----------                
+		                 
+
+
+I1            1                -eagles
+
+              2                -that                fly
+
+              1                                    -swim
+
+
+
+i1            1                eagles               swim
+
+              2                eagles               fly
+
+
+
+
+               (n-v)    (n)   (n-v)  [  (n)   (n-v)    (v)     (x)]     (v)   (x)  
+
+I1                    eagles            that           fly              swim
+
+         NL:     1       1      1        2      2       2        2       1     1            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)       AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----       ----------                
+                
+                
+                
+ I1             1               he        was                    a
+                                                                 great
+                                                                 actor
+
+                                                      in         his
+                                                                 time
+
+ 
+                              (pro)       (te)                   (n)
+
+                                                     (in)        (n)'
+
+
+
+
+
+
+the number 7
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)       AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----       ----------                
+                
+      
+		 1             d
+
+		 2             s
+
+		 3    	       j
+
+		 4    	       a
+
+		 5    	       l
+
+		 6	       v	
+
+		 7	       k
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)       AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----       ----------                
+                
+
+i1        X                   man                   talk                   
+
+          I                   I                     like         man
+                             
+
+
+         O1     I2
+         --     --
+          X      1            man
+                              
+          I      2            whom
+                              I                    like
+                 
+          X      1                                 talks
+
+
+
+
+i2                           man                   talks                  
+
+                             p-1                   like         man
+
+
+
+line when inputting, other symbols when outputting 
+
+
+
+
+
+
+
+
+
+the "I" parcel
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)       AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----       ----------                
+                
+ 
+                                I                   love         my 
+                                                                 kids 
+
+                                I                   love         blackhawks
+                                                    
+                                I                   ride         bike
+                           
+                                I                   work         hard
+
+                                I                   decorate     house
+
+
+                                I         have                   a
+                                                                 girlfriend
+
+
+
+
+
+
+
+
+
+conversational "I" response
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)       AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----       ----------                
+ 
+
+O1                             man                  got          new                                    
+            		       			    		 bike
+
+
+i2:                                                   
+                                                                              LTM
+                                                                              ---
+            I!   <- - - - - - - - - - - - - - - - - - - - - - - - - - - - < - - - I                     2. I fires back to IO parcel
+                                                                                   -love 
+                                                                                    ride  
+                                                                                    work  
+             bike - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - >   bike                1. bike fires in I parcel     
+
+                                                                                     ltm1:bike,ride     3. ltm1 node fires
+
+      bike ride                                                                                         4. bike and ride fire in IO
+
+
+O2                             I                    ride         bike!                                  5. person 2 outputs sequence 
+			       			    		 					   using (n-v)
+
+
+
+'I' response on single symbol match
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+guess what boys eat
+
+
+                         (adv)<               
+          (n-v)  ------  (n)  <  
+                         (te) <  
+			 (v) ----------- (n1)< 
+			 (p) ----------  (n2)< 
+			 (x)  <                 
+
+                                                    (v)          (n1)
+       IO            (adv)     (n)       (te)       (p)          (n2)       AA / LTM / hypernym       
+   ------------      ----     ------     ----       -----        ----       ----------                
+ 
+          
+
+
+                               boys                 eat          apple
+
+                               boys                 eat          (what)?
+
+
+                                                                -(what)
+                              -boys                 eat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

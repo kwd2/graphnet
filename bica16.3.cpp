@@ -749,10 +749,10 @@ IO
 
 	   9757. (pronoun)
 		   8137. (person)                           1620. (thing)	      
-			   2281. (te)			   	    375. (te)	      
+			   2281. (te)			   	   375. (te)	      
 			    111. gave      i		   	      6. takes	      
 			    108. took      i		   	      6. took     i   
-			     87. got       i		   	      5. came     i   
+			      87. got       i		   	      5. came     i   
 			     86. made    i		   	      4. seems	      
 			     62. felt     i		   	      4. grew    i    
 			     59. looked			   	      3. brought     i
@@ -955,7 +955,7 @@ first adverb, verb,  and preposistion
 
 
                                                     
-       IO            (adv)     (n)       (te)       (v)       (p)         (n2)          AA / LTM / hypernym       
+       IO            (adv)     (n)       (te)       (v)       (p)         (obj)          AA / LTM / hypernym       
    ------------      ----     ------     ----       -----     ----        -----                
 
 
@@ -965,8 +965,8 @@ first adverb, verb,  and preposistion
 
                                I                    get
 
-                                                    -to
-                                                     keep                 thing
+                                                   -to
+                                                    keep                  thing
 
 
 
@@ -977,7 +977,7 @@ first adverb, verb,  and preposistion
 
                                (person)             (verb)
 
-                                                   -(prep)       (person)
+                                                   -(verb)       (person)
 
 
 
@@ -989,27 +989,46 @@ first adverb, verb,  and preposistion
 
 
 
-                         (adv)<               
-          (n-v)  ------  (n)  <  
-                         (te) <  
-			 (v) 
-			 (p) 
+
+                         (adv) <               
+          (n-v)  ------  (n)   <  
+                         (te)  <  
+			 (v)   <
+			 (p)   <
 			 (n1)  <                 
-			 (x)  <                 
-
-
+			 (x)   <                 
 
                                                     
-       IO            (adv)     (n)       (te)       (v)       (p)         (n2)          AA / LTM / hypernym       
-   ------------      ----     ------     ----       -----     ----        -----                
+       IO            (adv)     (n)       (te)       (v)       (p)         (obj)          AA / LTM / hypernym       
+   ------------       ----        ------     ----       -----       ----        -----                
+
+                                    i                    give                                        // all verbs can take this form
+
+                               
+                                    i                    give                  it                    //  and this form
+
+                                                                               
+                                    i                    give     to           it                   // most, but not all verbs - direction
 
 
-         give                   i                   give                  it
-                
-                                                               -to        him
+                                    i                    give     on           it                  // most, but not all verbs - location
+
+
+                                   i                     speak   of           it                  // few verbs can take this form
+
+
+                                   i                     speak   with        it                 // most verbs
+                                                                    for
+
+
+                                   i                      get     like       it                   // and this
+                                   i                      feel    like       it      
+                                   i                      go      like       it      
+                                   i                      do      like       it      
 
 
 
+         give
 	 take 
 	 get  
 	 make 
@@ -1026,42 +1045,10 @@ first adverb, verb,  and preposistion
 
 
 
-    i  give  it
-    i  give  it  him
-
-    i  give  it  to  him
 
 
 
 
-
-
-
-
-
-
-    
-                                                                      I   (verb)     (prep)    him
-                                                                      ----------------------------
-
-9757. (pronoun)			get                                    to                            on
- 8137. (person)                 give      feel    act     move         from      of                  in
-  2281. (te)	    	      					       ----      -----               -----
-
-
-
-   111. gave         give	 -1         	                        1        I give of him	     I give in him		
-   108. took         take         1		           					
-    87. got          get          1          1          					
-    86. made         make         1                                                	
-    37. wanted	     want         1	        1	           		   	
-    35. bought       buy          1                                                	
-    50. put          put         -1		           			   	
-    28. lost         lose        -1		                        1	   	
-    24. found	     find         1	           				   	
-    24. kept	     keep         1	                                           	
-    24. studied      study        1	           				   	
-  
 
 
 
@@ -1069,115 +1056,182 @@ first adverb, verb,  and preposistion
 
 
                                                                         it                             it
-                                                                  I (v) him           I   (v)  (prep)  him
+                                                                  i (v) him           i   (v)  (prep)  him
                                                                   ---------           --------------------
 							                      
 9757. (pronoun)			get                                                    to                  on       with 
- 8137. (person)                 give      feel    act     move                         from      of        in       for     
+ 8137. (person)                 give      feel     direction                           from      of        in       for     
   2281. (te)	    	      				      	       	               ----      ----      -----    ----    
+--------------------------------------------------------------------------------------------------------------------------
 							                        
+
 							                        
-   111. gave         give	 -1         	                  i  give  him          1                            
+   111. gave         give	 -1         	                  i  give  it       i g to it                            
    108. took         take         1		                  i  take  it  		1			     
-    87. got          get          1          1                    i  get   it  		1			    1  
-    86. made         make         1                               i  make  it                                 	    1       
-    37. wanted	     want         1	     1	                           		   	                       
-    35. bought       buy          1		                  i buy   from  him     1	   	            1       
-    50. put          put         -1
-    28. lost         lose        -1		                  i put         it                      	   	
-    24. found	     find         1	           	      	  i find        it	        	    		      	
-    24. kept	     keep         1	                          i keep        it                                   	
-    24. studied      study        1	                          i study       it	      		        	    		   	
-  		  				              		        	    			   	
-  		  				              		        	    			   	
-    62. felt         feel                   1                     i feel it                                   	
-    59. looked	     look                   1                                            1	   	
-    44. played	     play                   1                 		        	    			   	
-    49. spoke        speak                  1                                            1	 1  	           1        
-    43. worked	     work         1         1                                                        	           1        
-    29. heard        hear                   1                 	  i hear     it       	 1   	 1                 1        
-    27. wrote        write                  1                     i write on it          1	 1         1       1        
-    26. walked	     walk                   1                1	  i walk  to it          1                 1       1        
-    24. lived	     live                   1                     i live                                   1       1        
-    24. said	     say                    1                                            1			
-    26. sat         sit                     1    	 	      	  			
-    26. ran          run  		    1                1				
-    29. stood        stand		    1             						   
-  	          										
-  		  				           					
-    58. went         go                                       1					
-    26. came         come                                     1					
-    24. left	     leave                                    1					
-    21. moved	     move                                     1 				
-    26. ran          run			                 1				
-    29. turned	     turn	 		                 1				
-    27. fell         fall			                 1				
+    87. got          get          1          1                    i  get   it  		1			      
+    86. made         make         1                               i  make  it           1                      	    1       
+    37. wanted	     want         1	     1	                  i  want  it         		   	                       
+    35. bought       buy          1		                  i  buy   it           	   	            1       
+    50. put          put         -1                               i  put   it      	   	            1
+    28. lost         lose        -1		                  i  lose  it
+    24. found	     find         1	           	      	  i  find  it	        	    		      	
+    24. kept	     keep         1	                          i  keep  it                                   	
+    24. studied      study        1	                          i  study it	      		        	    		   	
+    21. need	     need         1        1 			      		
+    18. built	     built        1   	    				      		
+    17. received     received      1	    							
+    16. sent	     sent	   1   	    		  1					
+    15. spent	     spent	   1   	    							
+    15. won	     won	   1   	    							
+    15. dropped      dropped       1	    							
+    14. want	     want	   1   	    1	    
+    13. paid	     paid	   1   	    							
+    15. accepted     accepted      1	    							
+    12. joined	     joined	   1   	    							
+    12. listened     listen        1 	    1    							
+    11. showed	     show	   1     	    							
+    11. loved	     love	   1   	    1							
+    11. met	     met	   1   	    							
+    10. signed	     sign	   1   	    	   1						
+		  	
+	
+
+
+
+
+
+                                                                        it                             it
+                                                                  i (v) him           i   (v)  (prep)  him
+                                                                  ---------           --------------------
+							                      
+9757. (pronoun)			get                                                    to                  on       with 
+ 8137. (person)                 give      feel     direction                           from      of        in       for     
+  2281. (te)	    	      				      	       	               ----      ----      -----    ----    
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+  of:    n  v  of  n
+		              		        	    			   	
+    49. spoke        speak                  1            1   
+    29. heard        hear                   1                
+    27. wrote        write                  1                
+    18. thought      think      	          1	     
+
+
+  feel:
+ 		  				             
+    62. felt               feel                   1          
+    44. played	     play                   1                
+    43. worked	     work                  1         1       
+    37. wanted	     want                  1	    1	     
+    19. works	     works	  1    			     
+    24. lived	     live                   1                
+    24. said	     say                    1                
+    26. sat               sit                    1    	     
+    25. asked	     ask                  1                          
+    22. called	     call	           1		             
+    22. talked	     talk	          1	    1                
+    21. enjoyed        enjoy             1  	    1            	      		
+    20. answered     answer           1	   
+    20. held	     hold	           1        1      1		      		
+    19. told	             tell	       	    1   
+    18. saw	             saw                    1
+    18. behaved      behave      	    1							
+    16. watched      watched      	    1							
+    15. missed	     miss	      	    1							
+    14. read	     read	      	    1							
+    13. smiled	     smile	      	    1							
+    13. lives	     lives	      	    1							
+    13. live	             live	      	    1							
+    13. know	     know	      	    1							
+    12. knew	     know	      	    1							
+    11. admired       admire      	    1   							
+    11. think	     think	      	    1 							
+    10. decided        decide      	    1							
+	          										
+
+
+
+
+
+
+
+
+
+
+
+                                                                        it                         
+                                                                  I (v) him       I   (v)  (prep)  
+                                                                  ---------       --------------------
+							                      
+9757. (pronoun)			get                                                to        about    on     with 
+ 8137. (person)                 give      feel    action  dir                      from      of       in     for     at
+  2281. (te)	    	      				      	       	           ----      ----     ---    ----    -----
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+  direction:
+
+    59. looked	     look         1         1              1          i look           1	   	      1       1        1
+    26. walked	     walk                   1              1	  i walk           1                  1       1        
+    58. went             go                                     1           i go	      		
+    26. came            come                                  1	  i come	      		
+    24. left	             leave                                  1	  i leave him 			
+    21. moved	     move                                  1         i move  it
+    26. ran               run			               1	  i run	      	
+    29. turned	     turn	 		               1	  i turn	      	
+    29. stood           stand		    1                 1	  i stand					   
+    27. fell              fall			              1	  i fall	       	
+                                                                                            
+
+
+
+
+
+
+
+                                                                                            
+    58. tried	     try                           1		      		
+    45. used	     use 		           1    		      		
+    34. acted	     act	       	           1    		      		
+    20. threw	     throw	                   1       1      i throw it    	      		
+    19. drew	     draw	   1   	           1			      		
+    18. served	     serve         1                1                                                            	      	    							
+  
+    18. broke	     broke	   1                1
+     	    							
+    18. wore	     wore	      	    1							
+
+
+
+    16. passed	     pass	                   1  	  1  							
+ 
+    16. caught	     caught	  1    	    	   1						
+    16. followed     followed     	    	          1						
+
+
+    14. hit	     hit	                   1  	    							
+    14. managed      manage      	    	   1						
+    13. started      start      	           1	  1						
+
+
+    13. pulled	     pulled	      	    		  1					
+
+    13. carried      carried      1 	    	   1						
+    12. set	     set	      	    	   1						
+    12. plays	     play	      	    1	   1						
                                                                                                 
-                                                                                                
-    58. tried	     try	                       1					
-    45. used	     use			       1    					
-    34. acted	     act			       1    					
-    25. asked	     ask          	1	 1     1     					
-    22. called	     call			 1     1                 1			
-    22. talked	     talk			 1          					
-    21. enjoyed     enjoy    	         1  	                				
-    21. need	     need	      	1        1 						
-    20. held	     hold	      	1        1     1					
-    20. threw	     threw	      	1        1     1          				
-    20. answered     answered     	1              1					
-    19. drew	     draw	      	         1						
-    19. told	     told	      	         1     1					
-    19. works	     works	      								
-    18. built	     built	      	    							
-    18. served	     served	      	    							
-    18. thought      thought      	    							
-    18. broke	     broke	      	    							
-    18. wore	     wore	      	    							
-    18. saw	     saw	      	    							
-    18. behaved      behaved      	    							
-    17. received     received     	    							
-    16. passed	     passed	      	    							
-    16. watched      watched      	    							
-    16. caught	     caught	      	    							
-    16. followed     followed     	    							
-    16. sent	     sent	      	    							
-    15. spent	     spent	      	    							
-    15. won	     won	      	    							
-    15. missed	     missed	      	    							
-    15. dropped      dropped      	    							
-    15. accepted     accepted     	    							
-    14. hit	     hit	      	    							
-    14. read	     read	      	    							
-    14. managed      managed      	    							
-    14. want	     want	      	    							
-    13. started      started      	    							
-    13. smiled	     smiled	      	    							
-    13. pulled	     pulled	      	    							
-    13. carried      carried      	    							
-    13. paid	     paid	      	    							
-    13. lives	     lives	      	    							
-    13. live	     live	      	    							
-    13. know	     know	      	    							
-    12. set	     set	      	    							
-    12. plays	     plays	      	    							
-                                                                                                
-    12. changed      changed      	    							
-    12. treated      treated      	    							
-    12. knew	     knew	      	    							
-    12. performed    performed    	    							
-    12. joined	     joined	      	    							
-    12. listened     listened     	    							
-    12. traveled     traveled     	    							
-    11. doesn't      doesn't      	    							
-    11. admired      admired      	    							
-    11. showed	     showed	      	    							
-    11. loved	     loved	      	    							
-    11. met	     met	      	    							
+    12. changed      change       1 	           1  							
+    12. treated      treat        1                1	    							
+
+    12. performed    perform    	    	   1						
+    12. traveled     travel     	                  1							
+
+
+
     11. began	     began	      	    							
-    11. think	     think	      	    							
-    10. decided      decided      	    							
-    10. signed	     signed	      	    							
-    10. applied      applied      	    							
+    10. applied      apply      	    							
     10. claimed      claimed      	    							
     10. suffered     suffered     	    							
     10. became	     became	      	    							
@@ -1388,7 +1442,7 @@ first adverb, verb,  and preposistion
      4. carry	     carry	      	    							
      4. screamed     screamed     	    							
      4. noted	     noted	      	
-     4. backed      backed              
+     4. backed      backed                                                                                                   
 
 
 
@@ -1396,37 +1450,168 @@ first adverb, verb,  and preposistion
 IO2
 	 305102.(a:the)_rev
 
+
 		  43596.of
 
-		  11630.to
-		   5174.from
 
-		   8336.with
 		   7500.on
-		   6534.by
-		   5576.as
-
-		   4696.for
-
-		   3522.at
-
 		  22612.in
-		   2578.into
-		    998.through
+		   3522.at
+		   6534.by
 		    946.between
 		    872.over
-		    760.during
-		    756.after
-		    652.around
 		    572.under
-		    540.up
+		    756.after
 		    474.near
 		    456.about
 		    420.off
+
+
+		  11630.to
+		   5174.from
+		   2578.into
+		    998.through
+		    760.during
+		    652.around
+		    540.up
 		    416.along
 		    382.toward
+
+
+
+
+		   8336.with
+		   4696.for
+
+
+		   5576.as, like
+
+
+
+
+
+
+
+
+
 		    382.against
 		    376.within
+
+
+
+
+
+
+
+                                                                                              
+
+                                                                             i (v) it              i   (v)  (prep)  it
+                                                                             ---------             -----------------------
+							                      
+9757. (pronoun)			get                                                                                                       
+ 8137. (person)                 give      feel     direction                       like as                to from           on,in                  of              with,for
+  2281. (te)	    	      				      	       	                                                
+--------------------------------------------------------------------------------------------------------------------------
+							                        
+   111. gave         give	 1         	                  i  give  it         i give like it    	 i give to it                                                       
+   108. took          take         1		                  i  take  it               .                   i take f   it	  		     
+    87. got            get           1          1                    i  get   it              .                            f   it	   on 		      
+    86. made        make        1                               i  make  it             .                            f   it      
+    37. wanted      want         1	     1	                  i  want  it           (all)                           f	  
+    35. bought       buy          1		                  i  buy   it                                           f	  
+    50. put            put           1                               i  put   it                               	          t                on
+    28. lost           lose          1		                  i  lose  it                                            f                in
+    24. found        find          1	           	      	  i  find  it	                                 	  f     	   on   	
+    24. kept          keep         1	                          i  keep  it                                           f                in	
+ 										                                       
+  of:										                                       
+		              		        	    			                                       	
+    49. spoke        speak                 1            1        i  speak   it          .                             t  	          o                 i speak of it         
+    29. heard        hear                   1                 	  i  hear  of it         .                              f   	          o                           of
+    27. wrote        write                   1                     i  write of it         .                              t               o                           of  
+    18. thought      think      	           1	 		  i  think of  it	   .	                                           o                           of
+										                                       
+  feel:										                                       
+ 		  				              		                                               	    			   	
+    62. felt               feel                   1                     i  feel  it                                                                    	
+    44. played	     play                  1                     i  play  it	                                         	    			   	
+    43. worked	     work         1       1           1        i  work                                            
+    37. wanted	     want         1	     1	                    i  want  it                                          		   	                       
+    19. works	     works	     1    			      he works	                                 
+    24. lived	     live                   1                     i  live                                             
+    24. said	     say                   1                     i  say   it                                        
+    26. sat               sit                     1    	 	    i  sit                                              
+    25. asked	     ask          1                               i  ask   him	                                             		      		
+    22. called	     call	    1		                    i  call  him                                       
+    22. talked	     talk	    1	    1                      i  talked him                                       
+   										                                       
+  direction:									                                       
+										                                       
+    59. looked	     look         1         1            1      i look           1                               
+    26. walked	     walk                   1            1	    i walk           1                              
+    58. went            go                                    1	    i go	                                       		
+    26. came           come                                1	    i come	                                       		
+    24. left	            leave                                1	    i leave hi                                 m 			
+    21. moved	     move                               1       i move  it	                                       
+    26. ran              run			           1	  i run	      	                                       
+    29. turned	     turn	 		           1	  i turn	                                       	
+    29. stood           stand		    1              1	  i stand	                                       				   
+    27. fell              fall			           1	  i fall	                                                                                                                                                         x	
+                                                                                            
+
+
+
+action verbs:
+
+
+
+
+9757. (pronoun)			            get                                                                                                       
+ 8137. (person)                              give      feel     direction    action                                    like as          to from       on,in        of         with,for
+  2281. (te)	    	      				      	       	                                                
+--------------------------------------------------------------------------------------------------------------------------
+                                                                                            
+    58. tried	     try        
+    45. used	     use 	
+    34. acted	     act	
+    20. threw	     throw	
+    19. drew	     draw	
+    18. served	     serve   
+    18. broke	     broke	
+    18. wore	     wore	
+    16. passed	     pass	
+    14. hit	             hit	         						
+    14. managed      manage      	 				
+    13. started         start      	 					
+    13. pulled	     pulled	      	 				
+    13. carried         carried       	 				
+    12. set	            set	      	 				
+    12. plays	     play	      	 				
+    12. changed      change        	 					
+    12. treated         treat              						
+    12. performed    perform    	 				
+    12. traveled       travel     	 						
+    11. began	     began	      	    							
+    10. applied        apply      	    							
+    10. claimed       claimed      	    							
+    10. suffered      suffered     	    							
+    10. became	     became	      	    							
+    10. still	             still	      	    							
+    10. expressed    expressed    	    							
+    10. arrived        arrived      	    							
+    10. needed	    needed	      	    							
+    10. learned        learned      	    							
+    10. dealt	     dealt	      	    							
+    10. picked	     picked	      	    							
+    10. often	     often	      	    							
+   
+
+
+
+
+
+
+
 
 
 
@@ -1476,19 +1661,24 @@ The wheezing gentleman . . .
 
 
 
-                         (adv)<               
-          (n-v)  ------  (n)  <  
-                         (te) <  
-			 (v) 
-			 (p) 
-			 (n1)  <                 
-			 (x)  <                 
+                           (adv)<               
+          (n-v)  ------  (n)    <  
+                          (te)   <  
+			  (v) 
+			  (p) 
+			  (obj)  <                 
+			  (x)    <                 
 
 
 
                                                     
-       IO            (adv)     (n)       (te)       (v)       (p)         (n2)          AA / LTM / hypernym       
-   ------------      ----     ------     ----       -----     ----        -----                
+       IO            (adv)     (n)       (te)       (v)       (p)         (obj)          AA / LTM / hypernym       
+   ------------        ----       ------     ----       -----     ----           -----          ------------------------                
+  (person) (thing)
+  (past)     (futr)
+  (finished)  
+  (!finished)
+
 
 
                               the
@@ -1556,25 +1746,84 @@ The crowd grew ugly.
 Major thematic relations[edit]
 Here is a list of the major thematic relations.[2]
 
-Agent: deliberately performs the action (e.g., Bill ate his soup quietly.).
+(noun) capable of action
+(noun) with       action verb
+Agent      : Bill ate his soup quietly.).    deliberately performs the action (e.g., 
+
+
+(person) with the feeling verbs   i feel
 Experiencer: the entity that receives sensory or emotional input (e.g. Susan heard the song. I cried.).
-Stimulus: Entity that prompts sensory or emotional feeling - not deliberately (e.g. Kim detests sprouts ).
-Theme: undergoes the action but does not change its state (e.g., We believe in one God. I have two children. I put the book on the table. He gave the gun to the police officer.) (Sometimes used interchangeably with patient.)
-Patient: undergoes the action and changes its state (e.g., The falling rocks crushed the car.). (Sometimes used interchangeably with theme.)
-Instrument: used to carry out the action (e.g., Jamie cut the ribbon with a pair of scissors.).
-Force or Natural Cause: mindlessly performs the action (e.g., An avalanche destroyed the ancient temple.).
-Location: where the action occurs (e.g., Johnny and Linda played carelessly in the park. I'll be at Julie's house studying for my test.).
-Direction or Goal: where the action is directed towards (e.g., The caravan continued on toward the distant oasis. He walked to school.).
-Recipient: a special kind of goal associated with verbs expressing a change in ownership, possession. (E.g., I sent John the letter. He gave the book to her.)
-The Source or The Origin: where the action originated (e.g., The rocket was launched from Central Command. She walked away from him.).
-Time: the time at which the action occurs (e.g., The rocket was launched yesterday.).
-Beneficiary: the entity for whose benefit the action occurs (e.g.. I baked Reggie a cake. He built a car for me. I fight for the king.).
-Manner: the way in which an action is carried out (e.g., With great urgency, Tabitha phoned 911.).
-Purpose: the reason for which an action is performed (e.g., Tabitha phoned 911 right away in order to get some help.).
-Cause: what caused the action to occur in the first place; not for what, rather because of what (e.g., Because Clyde was hungry, he ate the cake.).
 
 
+(object) that goes with feeling verbs -- I feel it
+Stimulus   : Entity that prompts sensory or emotional feeling - not deliberately (e.g. Kim detests sprouts ).
 
+(noun) ?
+Theme      : undergoes the action but does not change its state (e.g., 
+          We believe in one God. 
+          I have two children. 
+          I put the book on the table. 
+          He gave the gun to the police officer. (Sometimes used interchangeably with patient.)
+
+
+(object)?
+Patient    : undergoes the action and changes its state (e.g., 
+The falling rocks crushed the car.). (Sometimes used interchangeably with theme.)
+
+
+with?
+(object) of (with)
+Instrument : used to carry out the action (e.g., Jamie cut the ribbon with a pair of scissors.).
+
+
+(thing)  !(person)
+Force or 
+Natural Cause: mindlessly performs the action (e.g., An avalanche destroyed the ancient temple.).
+
+(in) (on) (at)...
+Location   : where the action occurs (e.g., 
+Johnny and Linda played carelessly in the park. 
+I'll be at Julie's house studying for my test.).
+
+
+(to) (from) (into) ....
+Direction  
+Goal       : where the action is directed towards (e.g., The caravan continued on toward the distant oasis. He walked to school.).
+
+
+to
+Recipient  : a special kind of goal associated with verbs expressing a change in ownership, possession. (E.g., 
+  I sent John the letter. 
+  I sent the letter to John.
+  He gave the book to her.)
+
+
+from
+The Source or 
+The Origin: where the action originated (e.g., 
+  The rocket was launched from Central Command. 
+  She walked away from him.).
+
+
+adverb  time
+Time: the time at which the action occurs (e.g., T
+  The rocket was launched yesterday.).
+
+for
+Beneficiary: the entity for whose benefit the action occurs (e.g.. 
+  I baked Reggie a cake. He built a car for me. I fight for the king.).
+
+with
+Manner: the way in which an action is carried out (e.g., 
+  With great urgency, Tabitha phoned 911.).
+
+to
+Purpose: the reason for which an action is performed (e.g., 
+  Tabitha phoned 911 right away in order to get some help.).
+
+
+Cause: what caused the action to occur in the first place; not for what, rather because of what (e.g., 
+  Because Clyde was hungry, he ate the cake.).
 
 
 
@@ -1585,6 +1834,134 @@ greed envy wrath sloth glutonly vanity lust hubris
 
 
 
+LTM memory recall with ageing:
+
+
+
+                          (adv)<               
+          (n-v)  ------  (n)    <  
+                          (te)   <  
+			  (v) 
+			  (p) 
+			  (obj)  <                 
+			  (x)    <                 
+
+
+                                                    
+       IO                                (adv)       (n)                (te)            (v)                (p)             (obj)          AA / LTM / hypernym       
+   ------------                           ----          ------              ----            -----                ----             -----          ------------------------                
+(nv) 
+   (!) (?) (y/n) (t/f)(conj)(pos)                                                                                                            // need (false) circuit to filter incorrect sequences
+   (prep)                                             man
+                                                        in
+                                                         tree
+
+							 man's                                                                                 // possessive leads to prepositions
+							 stick
+(n)
+    (det)
+    (sing) (plural)  
+    (person)-(thing)
+    (adj)
+
+    (of)                                                part                                                                                    // of develops from possessive
+                                                         of
+                                                         car
+                                                       
+                                                         car's
+                                                         part
+(v)                                               
+   (get)-(feel)-(direction)
+   (adv)
+
+
+ (past) (futr)                               
+					     
+ (perf) (prog)				    
+					    	       					    		       
+                                 	    	       		     	  
+ (prep)  
+       (location) 
+            on in at..  
+       (direction)...		    
+            to from into...
+
+
+
+
+
+
+       IO                                (adv)       (n)                (te)            (v)                (p)             (obj)          AA / LTM / hypernym       
+   ------------                           ----          ------              ----            -----                ----             -----          ------------------------                
+
+
+                                                           Anna                      cook
+
+
+                                                           Anna                      work
+
+ 					        
+                                              
+-------------------
+LTM:                                                                                   
+
+
+               Anna                          work	                                      Anna   work s  as  a  cook
+                     ---		              ---
+                     ---		              ---
+                     work		              ---
+                     cook   		             cook
+
+
+
+
+              Anna                          work	                                       Anna  work s
+                     ---		              ---
+                     ---		              ---
+                     work		              ---
+                       xx 		              cook
+
+
+
+
+
+  	    					    	       ------------------------------------ 								      
+					                      Anna 		   		                         of           South		   
+                      			              	    Thompson                                                            Boston			   
+					               		                                							   
+                                                      			                        -employed         as           a			   								
+                                                                                                                                        cook		   
+					               					                                       				   
+					               							       -in            a 		       	   
+                                                       					      		                               school		   
+ 					               									               cafeteria	   
+					    	       	                                                                                  		   
+					    	       					          -reported          at            the			   
+					    	       						                                        police		   
+						       								  	    	        station		   
+					               	                                                                                  		   					       
+					    	        	      -that	          had           robb  ed           on          State St			   
+					    	         	       she              been      								   
+		      			    	        	                                                                                  		   
+						       	                                                                              -the		   
+					    	        	                                                                               night		   
+                                            	        	                                                                               before		    
+					    	                                                                                                             
+					                	                                         -and		 of          56 			   
+                                                        	                                          robb   ed                       dollars     		   
+                                                        						                                       			   
+					              													   
+					                                                                                                                     
+						       	      ------------------------------------ 							   
+						                 Ann 				work ed              in          Boston 		   
+						                 Taylor                        								   
+						                                                                                                             
+						                                                                          -as         a			   
+						       									             cook		   
+						                                                                                                             
+						               -and											   
+						                she             was          robb ed             of          sixty-seven			   
+						       	                                                                            dollars                
 
 
 
@@ -1599,6 +1976,167 @@ greed envy wrath sloth glutonly vanity lust hubris
 
 
 
+                          (adv)<               
+          (n-v)  ------  (n)    <  
+                          (te)   <  
+			  (v) 
+			  (p) 
+			  (obj)  <                 
+			  (x)    <                 
+
+
+
+
+               
+       IO     
+   ------------
+(nv) 
+   (!) (?) (y/n) (t/f)(conj)
+   (poss)(of)       
+   (prep)                    
+                                 
+(n)
+    (det)
+    (sing) (plural)  
+    (person)-(thing)
+    (adj)
+
+(v)
+   (get)-(feel)-(direction)
+   (adv)
+
+
+ (past) (futr)    
+
+ (perf) (prog)
+
+ (prep)  
+       (location) 
+            on in at..  
+       (direction)... 	    
+            to from into...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+                                                    
+
+       IO                                       (adv)       (n)                (te)            (v)                (p)             (obj)          AA / LTM / hypernym       
+   ------------                                  ----          ------              ----            -----                ----             -----          ------------------------                
+
+             nv
+                  (stm)
+                  (input)
+                  (ltm)
+
+
+
+             nv
+                n 
+                v
+
+
+            nv
+                 n
+                   person  
+		                    I                                                                                                                  
+                   thing    
+		                    it  
+		                    he
+                   place
+		                    there
+                   
+                v
+                   get
+                                   get
+                   feel
+                                   feel
+                   direction
+                                   go
+                   action
+                                   do
+
+
+
+
+
+
+
+
+
+
+
+                        (adv)<               
+          (n-v)  ------  (n)    <  
+                          (te)   <  
+			  (v) 
+			  (p) 
+			  (obj)  <                 
+			  (x)    <                 
+
+
+                                                    
+       IO                                 (adv)        (n)                (te)            (v)                (p)             (obj)          AA / LTM / hypernym       
+   ------------                             ----          ------              ----            -----                ----             -----          ------------------------                
+(nv) 
+   (!) (?) (y/n) (t/f)(conj)
+   (poss)(of)       
+   (prep)                    
+                                 
+(n)
+    (det)
+    (sing) (plural)  
+    (person)-(thing)
+    (adj)
+
+(v)
+   (get)-(feel)-(direction)
+   (adv)
+
+
+ (past) (futr)    
+
+ (perf) (prog)
+
+ (prep)  
+       (location) 
+            on in at..  
+       (direction)... 	    
+            to from into...
+
+
+
+
+
+
+
+
+					         
+      
+             
+             
+             
+             
 
 
 
